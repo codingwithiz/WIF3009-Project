@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2025-05-29">
+  <meta lastmodifieddate="2025-05-31">
     <creator>NetworkX 3.4.2</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
@@ -17,9 +17,9 @@
         <attvalues>
           <attvalue for="0" value="Ninja" />
           <attvalue for="1" value="Ninja" />
-          <attvalue for="2" value="6529527" />
+          <attvalue for="2" value="6529097" />
           <attvalue for="3" value="1515" />
-          <attvalue for="4" value="46062" />
+          <attvalue for="4" value="46063" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
@@ -27,9 +27,9 @@
         <attvalues>
           <attvalue for="0" value="shroud" />
           <attvalue for="1" value="Michael Grzesiek" />
-          <attvalue for="2" value="1844951" />
-          <attvalue for="3" value="1045" />
-          <attvalue for="4" value="9816" />
+          <attvalue for="2" value="1844706" />
+          <attvalue for="3" value="1049" />
+          <attvalue for="4" value="9818" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
@@ -37,9 +37,9 @@
         <attvalues>
           <attvalue for="0" value="Myth_" />
           <attvalue for="1" value="Myth" />
-          <attvalue for="2" value="2405584" />
+          <attvalue for="2" value="2405376" />
           <attvalue for="3" value="631" />
-          <attvalue for="4" value="20429" />
+          <attvalue for="4" value="20430" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
@@ -47,8 +47,8 @@
         <attvalues>
           <attvalue for="0" value="DrLupo" />
           <attvalue for="1" value="DrLupo" />
-          <attvalue for="2" value="1815757" />
-          <attvalue for="3" value="1255" />
+          <attvalue for="2" value="1815626" />
+          <attvalue for="3" value="1254" />
           <attvalue for="4" value="41763" />
           <attvalue for="5" value="true" />
         </attvalues>
@@ -57,9 +57,9 @@
         <attvalues>
           <attvalue for="0" value="timthetatman" />
           <attvalue for="1" value="timthetatman👑" />
-          <attvalue for="2" value="2818324" />
+          <attvalue for="2" value="2818211" />
           <attvalue for="3" value="1352" />
-          <attvalue for="4" value="61191" />
+          <attvalue for="4" value="61195" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
@@ -67,9 +67,9 @@
         <attvalues>
           <attvalue for="0" value="Syndicate" />
           <attvalue for="1" value="Tom" />
-          <attvalue for="2" value="1958802" />
+          <attvalue for="2" value="1958775" />
           <attvalue for="3" value="232" />
-          <attvalue for="4" value="124130" />
+          <attvalue for="4" value="124140" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
@@ -77,9 +77,9 @@
         <attvalues>
           <attvalue for="0" value="summit1g" />
           <attvalue for="1" value="summit1g" />
-          <attvalue for="2" value="1000826" />
-          <attvalue for="3" value="1710" />
-          <attvalue for="4" value="19805" />
+          <attvalue for="2" value="1000688" />
+          <attvalue for="3" value="1709" />
+          <attvalue for="4" value="19807" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
@@ -87,7 +87,7 @@
         <attvalues>
           <attvalue for="0" value="pokimane" />
           <attvalue for="1" value="pokimane" />
-          <attvalue for="2" value="475" />
+          <attvalue for="2" value="476" />
           <attvalue for="3" value="1" />
           <attvalue for="4" value="1" />
           <attvalue for="5" value="true" />
@@ -97,8 +97,8 @@
         <attvalues>
           <attvalue for="0" value="Tfue" />
           <attvalue for="1" value="Tfue" />
-          <attvalue for="2" value="4067212" />
-          <attvalue for="3" value="1444" />
+          <attvalue for="2" value="4066983" />
+          <attvalue for="3" value="1443" />
           <attvalue for="4" value="6087" />
           <attvalue for="5" value="true" />
         </attvalues>
@@ -107,8 +107,8 @@
         <attvalues>
           <attvalue for="0" value="Jacksepticeye" />
           <attvalue for="1" value="Jacksepticeye" />
-          <attvalue for="2" value="7628424" />
-          <attvalue for="3" value="528" />
+          <attvalue for="2" value="7628035" />
+          <attvalue for="3" value="529" />
           <attvalue for="4" value="18929" />
           <attvalue for="5" value="true" />
         </attvalues>
@@ -117,9 +117,9 @@
         <attvalues>
           <attvalue for="0" value="Valkyrae" />
           <attvalue for="1" value="RAE" />
-          <attvalue for="2" value="2944892" />
+          <attvalue for="2" value="2944677" />
           <attvalue for="3" value="979" />
-          <attvalue for="4" value="25999" />
+          <attvalue for="4" value="26007" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
@@ -127,9 +127,9 @@
         <attvalues>
           <attvalue for="0" value="Quackity" />
           <attvalue for="1" value="Quackity" />
-          <attvalue for="2" value="5780350" />
+          <attvalue for="2" value="5780554" />
           <attvalue for="3" value="894" />
-          <attvalue for="4" value="8095" />
+          <attvalue for="4" value="8099" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
@@ -137,9 +137,9 @@
         <attvalues>
           <attvalue for="0" value="TheGrefg" />
           <attvalue for="1" value="Grefg =)" />
-          <attvalue for="2" value="8386839" />
-          <attvalue for="3" value="1834" />
-          <attvalue for="4" value="52122" />
+          <attvalue for="2" value="8387262" />
+          <attvalue for="3" value="1835" />
+          <attvalue for="4" value="52135" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
@@ -147,7 +147,7 @@
         <attvalues>
           <attvalue for="0" value="jynxzi" />
           <attvalue for="1" value="Jynxzi" />
-          <attvalue for="2" value="609031" />
+          <attvalue for="2" value="609009" />
           <attvalue for="3" value="1204" />
           <attvalue for="4" value="1929" />
           <attvalue for="5" value="true" />
@@ -157,7 +157,7 @@
         <attvalues>
           <attvalue for="0" value="markiplier" />
           <attvalue for="1" value="Mark" />
-          <attvalue for="2" value="13866618" />
+          <attvalue for="2" value="13866365" />
           <attvalue for="3" value="382" />
           <attvalue for="4" value="9040" />
           <attvalue for="5" value="true" />
@@ -167,7 +167,7 @@
         <attvalues>
           <attvalue for="0" value="sssniperwolf" />
           <attvalue for="1" value="Lia" />
-          <attvalue for="2" value="1074260" />
+          <attvalue for="2" value="1074164" />
           <attvalue for="3" value="828" />
           <attvalue for="4" value="53332" />
           <attvalue for="5" value="true" />
@@ -177,9 +177,9 @@
         <attvalues>
           <attvalue for="0" value="OMGitsAliA" />
           <attvalue for="1" value="Ali-A" />
-          <attvalue for="2" value="2384224" />
+          <attvalue for="2" value="2384130" />
           <attvalue for="3" value="1011" />
-          <attvalue for="4" value="62629" />
+          <attvalue for="4" value="62632" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
@@ -187,9 +187,9 @@
         <attvalues>
           <attvalue for="0" value="scump" />
           <attvalue for="1" value="OpTic Scump" />
-          <attvalue for="2" value="2240961" />
-          <attvalue for="3" value="2136" />
-          <attvalue for="4" value="57488" />
+          <attvalue for="2" value="2240905" />
+          <attvalue for="3" value="2135" />
+          <attvalue for="4" value="57487" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
@@ -197,8 +197,8 @@
         <attvalues>
           <attvalue for="0" value="Lazarbeam" />
           <attvalue for="1" value="LAZAR" />
-          <attvalue for="2" value="2540601" />
-          <attvalue for="3" value="1370" />
+          <attvalue for="2" value="2540488" />
+          <attvalue for="3" value="1371" />
           <attvalue for="4" value="14309" />
           <attvalue for="5" value="true" />
         </attvalues>
@@ -207,9 +207,9 @@
         <attvalues>
           <attvalue for="0" value="pokelawls" />
           <attvalue for="1" value="Poke" />
-          <attvalue for="2" value="146727" />
+          <attvalue for="2" value="146707" />
           <attvalue for="3" value="885" />
-          <attvalue for="4" value="18833" />
+          <attvalue for="4" value="18834" />
           <attvalue for="5" value="true" />
         </attvalues>
       </node>
