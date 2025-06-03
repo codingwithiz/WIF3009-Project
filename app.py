@@ -23,9 +23,9 @@ st.title("📊 Influencer Analytics & SNA Dashboard")
 # ----------------------------------
 @st.cache_data
 def load_data():
-    df_centrality = pd.read_csv("data/influencer_centrality.csv")
-    df_graph = nx.read_gexf("data/influencer_network.gexf")
-    with open('data/tweets_data.json', 'r') as f:
+    df_centrality = pd.read_csv("data/outputs/centrality/influencer_centrality.csv")
+    df_graph = nx.read_gexf("data/processed/influencer_network.gexf")
+    with open('data/raw/tweets_data.json', 'r') as f:
         tweets = json.load(f)
     return df_centrality, df_graph, tweets
 
