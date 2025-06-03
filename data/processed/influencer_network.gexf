@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-06-03">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="screen_name" type="string" />
+      <attribute id="1" title="name" type="string" />
+      <attribute id="2" title="followers_count" type="long" />
+      <attribute id="3" title="friends_count" type="long" />
+      <attribute id="4" title="statuses_count" type="long" />
+      <attribute id="5" title="is_influencer" type="boolean" />
+    </attributes>
+    <nodes>
+      <node id="214201922" label="214201922">
+        <attvalues>
+          <attvalue for="0" value="Ninja" />
+          <attvalue for="1" value="Ninja" />
+          <attvalue for="2" value="6528161" />
+          <attvalue for="3" value="1515" />
+          <attvalue for="4" value="46063" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="1542453360" label="1542453360">
+        <attvalues>
+          <attvalue for="0" value="shroud" />
+          <attvalue for="1" value="Michael Grzesiek" />
+          <attvalue for="2" value="1844237" />
+          <attvalue for="3" value="1049" />
+          <attvalue for="4" value="9830" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="2163885564" label="2163885564">
+        <attvalues>
+          <attvalue for="0" value="Myth_" />
+          <attvalue for="1" value="Myth" />
+          <attvalue for="2" value="2404818" />
+          <attvalue for="3" value="632" />
+          <attvalue for="4" value="20433" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="4140881832" label="4140881832">
+        <attvalues>
+          <attvalue for="0" value="DrLupo" />
+          <attvalue for="1" value="DrLupo" />
+          <attvalue for="2" value="1815186" />
+          <attvalue for="3" value="1255" />
+          <attvalue for="4" value="41762" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="995979576" label="995979576">
+        <attvalues>
+          <attvalue for="0" value="timthetatman" />
+          <attvalue for="1" value="timthetatman👑" />
+          <attvalue for="2" value="2817583" />
+          <attvalue for="3" value="1352" />
+          <attvalue for="4" value="61194" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="204089551" label="204089551">
+        <attvalues>
+          <attvalue for="0" value="Syndicate" />
+          <attvalue for="1" value="Tom" />
+          <attvalue for="2" value="1958706" />
+          <attvalue for="3" value="232" />
+          <attvalue for="4" value="124153" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="1708443876" label="1708443876">
+        <attvalues>
+          <attvalue for="0" value="summit1g" />
+          <attvalue for="1" value="summit1g" />
+          <attvalue for="2" value="1000428" />
+          <attvalue for="3" value="1709" />
+          <attvalue for="4" value="19811" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="375438116" label="375438116">
+        <attvalues>
+          <attvalue for="0" value="pokimane" />
+          <attvalue for="1" value="pokimane" />
+          <attvalue for="2" value="478" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="2559865245" label="2559865245">
+        <attvalues>
+          <attvalue for="0" value="Tfue" />
+          <attvalue for="1" value="Tfue" />
+          <attvalue for="2" value="4066596" />
+          <attvalue for="3" value="1443" />
+          <attvalue for="4" value="6087" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="77596200" label="77596200">
+        <attvalues>
+          <attvalue for="0" value="Jacksepticeye" />
+          <attvalue for="1" value="Jacksepticeye" />
+          <attvalue for="2" value="7627231" />
+          <attvalue for="3" value="529" />
+          <attvalue for="4" value="18923" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="2708191476" label="2708191476">
+        <attvalues>
+          <attvalue for="0" value="Valkyrae" />
+          <attvalue for="1" value="RAE" />
+          <attvalue for="2" value="2944525" />
+          <attvalue for="3" value="979" />
+          <attvalue for="4" value="26024" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="2260704146" label="2260704146">
+        <attvalues>
+          <attvalue for="0" value="Quackity" />
+          <attvalue for="1" value="Quackity" />
+          <attvalue for="2" value="5780664" />
+          <attvalue for="3" value="894" />
+          <attvalue for="4" value="8101" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="1056396672" label="1056396672">
+        <attvalues>
+          <attvalue for="0" value="TheGrefg" />
+          <attvalue for="1" value="Grefg =)" />
+          <attvalue for="2" value="8387320" />
+          <attvalue for="3" value="1835" />
+          <attvalue for="4" value="52141" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="1165011598672650240" label="1165011598672650240">
+        <attvalues>
+          <attvalue for="0" value="jynxzi" />
+          <attvalue for="1" value="Jynxzi" />
+          <attvalue for="2" value="609082" />
+          <attvalue for="3" value="1205" />
+          <attvalue for="4" value="1929" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="517077573" label="517077573">
+        <attvalues>
+          <attvalue for="0" value="markiplier" />
+          <attvalue for="1" value="Mark" />
+          <attvalue for="2" value="13865741" />
+          <attvalue for="3" value="382" />
+          <attvalue for="4" value="9040" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="631800264" label="631800264">
+        <attvalues>
+          <attvalue for="0" value="sssniperwolf" />
+          <attvalue for="1" value="Lia" />
+          <attvalue for="2" value="1073854" />
+          <attvalue for="3" value="826" />
+          <attvalue for="4" value="53332" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="155620461" label="155620461">
+        <attvalues>
+          <attvalue for="0" value="OMGitsAliA" />
+          <attvalue for="1" value="Ali-A" />
+          <attvalue for="2" value="2383888" />
+          <attvalue for="3" value="1011" />
+          <attvalue for="4" value="62634" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="272570677" label="272570677">
+        <attvalues>
+          <attvalue for="0" value="scump" />
+          <attvalue for="1" value="OpTic Scump" />
+          <attvalue for="2" value="2240844" />
+          <attvalue for="3" value="2135" />
+          <attvalue for="4" value="57488" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="2830604556" label="2830604556">
+        <attvalues>
+          <attvalue for="0" value="Lazarbeam" />
+          <attvalue for="1" value="LAZAR" />
+          <attvalue for="2" value="2540244" />
+          <attvalue for="3" value="1374" />
+          <attvalue for="4" value="14313" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+      <node id="190946922" label="190946922">
+        <attvalues>
+          <attvalue for="0" value="pokelawls" />
+          <attvalue for="1" value="Poke" />
+          <attvalue for="2" value="146656" />
+          <attvalue for="3" value="887" />
+          <attvalue for="4" value="18834" />
+          <attvalue for="5" value="true" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="214201922" target="995979576" id="0" weight="1" />
+      <edge source="214201922" target="4140881832" id="1" weight="1" />
+      <edge source="214201922" target="1165011598672650240" id="2" weight="1" />
+      <edge source="214201922" target="2559865245" id="3" weight="1" />
+      <edge source="214201922" target="155620461" id="4" weight="1" />
+      <edge source="214201922" target="2163885564" id="5" weight="1" />
+      <edge source="214201922" target="2830604556" id="6" weight="1" />
+      <edge source="1542453360" target="1708443876" id="7" weight="1" />
+      <edge source="2163885564" target="4140881832" id="8" weight="1" />
+      <edge source="2163885564" target="2559865245" id="9" weight="1" />
+      <edge source="4140881832" target="995979576" id="10" weight="1" />
+      <edge source="995979576" target="4140881832" id="11" weight="1" />
+      <edge source="995979576" target="1165011598672650240" id="12" weight="1" />
+      <edge source="995979576" target="2559865245" id="13" weight="1" />
+      <edge source="995979576" target="214201922" id="14" weight="1" />
+      <edge source="995979576" target="2260704146" id="15" weight="1" />
+      <edge source="995979576" target="1708443876" id="16" weight="1" />
+      <edge source="1708443876" target="4140881832" id="17" weight="1" />
+      <edge source="1708443876" target="1165011598672650240" id="18" weight="1" />
+      <edge source="2559865245" target="1165011598672650240" id="19" weight="1" />
+      <edge source="2559865245" target="214201922" id="20" weight="1" />
+      <edge source="77596200" target="1542453360" id="21" weight="1" />
+      <edge source="517077573" target="2260704146" id="22" weight="1" />
+      <edge source="517077573" target="2708191476" id="23" weight="1" />
+      <edge source="517077573" target="77596200" id="24" weight="1" />
+      <edge source="155620461" target="204089551" id="25" weight="1" />
+      <edge source="272570677" target="1165011598672650240" id="26" weight="1" />
+      <edge source="2830604556" target="155620461" id="27" weight="1" />
+    </edges>
+  </graph>
+</gexf>
