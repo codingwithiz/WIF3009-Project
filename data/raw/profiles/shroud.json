@@ -1,0 +1,124 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxNTQyNDUzMzYw",
+          "rest_id": "1542453360",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Mon Jun 24 04:29:31 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Streamer: https://t.co/k3i2YAsYV5 | SHROUD-X | https://t.co/vo03o9mfSt | Business: shroud@loaded.gg",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "twitch.tv/shroud",
+                    "expanded_url": "http://twitch.tv/shroud",
+                    "url": "https://t.co/k3i2YAsYV5",
+                    "indices": [
+                      10,
+                      33
+                    ]
+                  },
+                  {
+                    "display_url": "maingear.com/shroud",
+                    "expanded_url": "http://maingear.com/shroud",
+                    "url": "https://t.co/vo03o9mfSt",
+                    "indices": [
+                      47,
+                      70
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/shroud",
+                    "expanded_url": "http://youtube.com/shroud",
+                    "url": "https://t.co/mtOaYZ2HUV",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 6392,
+            "followers_count": 1843979,
+            "friends_count": 1049,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 1668,
+            "location": "California, USA",
+            "media_count": 986,
+            "name": "Michael Grzesiek",
+            "normal_followers_count": 1843979,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542453360/1741728527",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/986674209106550784/mbmmyb6Z_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "shroud",
+            "statuses_count": 9830,
+            "translator_type": "none",
+            "url": "https://t.co/mtOaYZ2HUV",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "tipjar_settings": {},
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "legacy_extended_profile": {
+            "birthdate": {
+              "day": 2,
+              "month": 6,
+              "visibility": "Public",
+              "year_visibility": "Self"
+            }
+          },
+          "is_profile_translatable": false,
+          "has_hidden_subscriptions_on_profile": false,
+          "verification_info": {
+            "is_identity_verified": false,
+            "reason": {
+              "description": {
+                "text": "This account is verified. Learn more",
+                "entities": [
+                  {
+                    "from_index": 26,
+                    "to_index": 36,
+                    "ref": {
+                      "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                      "url_type": "ExternalUrl"
+                    }
+                  }
+                ]
+              },
+              "verified_since_msec": "1450710194224"
+            }
+          },
+          "highlights_info": {
+            "can_highlight_tweets": true,
+            "highlighted_tweets": "0"
+          },
+          "user_seed_tweet_count": 0,
+          "business_account": {},
+          "creator_subscriptions_count": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjo0MTQwODgxODMy",
+          "rest_id": "4140881832",
+          "affiliates_highlighted_label": {
+            "label": {
+              "url": {
+                "url": "https://twitter.com/XGaming",
+                "urlType": "DeepLink"
+              },
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1849918982439997440/KGP0MiOu_bigger.jpg"
+              },
+              "description": "Gaming",
+              "userLabelType": "BusinessLabel",
+              "userLabelDisplayType": "Badge"
+            }
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Fri Nov 06 01:34:21 +0000 2015",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "\u2764\ufe0f @MrsDrLupo // https://t.co/OGK9Wj3Rt0 // https://t.co/zlckFzCxkq",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "Twitch.tv/DrLupo",
+                    "expanded_url": "http://Twitch.tv/DrLupo",
+                    "url": "https://t.co/OGK9Wj3Rt0",
+                    "indices": [
+                      17,
+                      40
+                    ]
+                  },
+                  {
+                    "display_url": "YouTube.com/DrLupo",
+                    "expanded_url": "http://YouTube.com/DrLupo",
+                    "url": "https://t.co/zlckFzCxkq",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 97974,
+            "followers_count": 1814855,
+            "friends_count": 1255,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 1185,
+            "location": "",
+            "media_count": 6906,
+            "name": "DrLupo",
+            "normal_followers_count": 1814855,
+            "pinned_tweet_ids_str": [
+              "1921932230105997558"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4140881832/1724105194",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358532039595724803/oYmImssw_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "DrLupo",
+            "statuses_count": 41763,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "professional": {
+            "rest_id": "1568353443965767686",
+            "professional_type": "Creator",
+            "category": [
+              {
+                "id": 959,
+                "name": "Gamer",
+                "icon_name": ""
+              }
+            ]
+          },
+          "tipjar_settings": {
+            "is_enabled": false
+          },
+          "super_follow_eligible": true,
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "legacy_extended_profile": {},
+          "is_profile_translatable": false,
+          "has_hidden_subscriptions_on_profile": false,
+          "verification_info": {
+            "is_identity_verified": false,
+            "reason": {
+              "description": {
+                "text": "This account is verified because it's an affiliate of @XGaming on X. Learn more",
+                "entities": [
+                  {
+                    "from_index": 54,
+                    "to_index": 62,
+                    "ref": {
+                      "url": "https://twitter.com/XGaming",
+                      "url_type": "ExternalUrl"
+                    }
+                  },
+                  {
+                    "from_index": 69,
+                    "to_index": 79,
+                    "ref": {
+                      "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
+                      "url_type": "ExternalUrl"
+                    }
+                  }
+                ]
+              },
+              "verified_since_msec": "1527874325288"
+            }
+          },
+          "highlights_info": {
+            "can_highlight_tweets": true,
+            "highlighted_tweets": "15"
+          },
+          "user_seed_tweet_count": 0,
+          "business_account": {},
+          "creator_subscriptions_count": 0
+        }
+      }
+    }
+  }
+}

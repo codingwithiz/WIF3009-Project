@@ -1,0 +1,121 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjo5OTU5Nzk1NzY=",
+          "rest_id": "995979576",
+          "affiliates_highlighted_label": {
+            "label": {
+              "url": {
+                "url": "https://twitter.com/XGaming",
+                "urlType": "DeepLink"
+              },
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1849918982439997440/KGP0MiOu_bigger.jpg"
+              },
+              "description": "Gaming",
+              "userLabelType": "BusinessLabel",
+              "userLabelDisplayType": "Badge"
+            }
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Fri Dec 07 22:26:26 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Entertainer, streamer, nerd. Business Inquiries: timthetatman@wmeagency.com",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/timthetatman",
+                    "expanded_url": "https://youtube.com/timthetatman",
+                    "url": "https://t.co/ygrnWV7xBj",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 18821,
+            "followers_count": 2817296,
+            "friends_count": 1352,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 1797,
+            "location": "",
+            "media_count": 4977,
+            "name": "timthetatman\ud83d\udc51",
+            "normal_followers_count": 2817296,
+            "pinned_tweet_ids_str": [
+              "825815909956726784"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/995979576/1738273407",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490099066776215553/wCdfis1s_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "timthetatman",
+            "statuses_count": 61195,
+            "translator_type": "none",
+            "url": "https://t.co/ygrnWV7xBj",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "tipjar_settings": {},
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "legacy_extended_profile": {},
+          "is_profile_translatable": false,
+          "has_hidden_subscriptions_on_profile": false,
+          "verification_info": {
+            "is_identity_verified": false,
+            "reason": {
+              "description": {
+                "text": "This account is verified because it's an affiliate of @XGaming on X. Learn more",
+                "entities": [
+                  {
+                    "from_index": 54,
+                    "to_index": 62,
+                    "ref": {
+                      "url": "https://twitter.com/XGaming",
+                      "url_type": "ExternalUrl"
+                    }
+                  },
+                  {
+                    "from_index": 69,
+                    "to_index": 79,
+                    "ref": {
+                      "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
+                      "url_type": "ExternalUrl"
+                    }
+                  }
+                ]
+              },
+              "verified_since_msec": "1536304376164"
+            }
+          },
+          "highlights_info": {
+            "can_highlight_tweets": true,
+            "highlighted_tweets": "0"
+          },
+          "user_seed_tweet_count": 0,
+          "business_account": {},
+          "creator_subscriptions_count": 0
+        }
+      }
+    }
+  }
+}

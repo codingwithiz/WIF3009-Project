@@ -1,0 +1,129 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoyMTQyMDE5MjI=",
+          "rest_id": "214201922",
+          "affiliates_highlighted_label": {
+            "label": {
+              "url": {
+                "url": "https://twitter.com/XGaming",
+                "urlType": "DeepLink"
+              },
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1849918982439997440/KGP0MiOu_bigger.jpg"
+              },
+              "description": "Gaming",
+              "userLabelType": "BusinessLabel",
+              "userLabelDisplayType": "Badge"
+            }
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Wed Nov 10 20:40:54 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I love video games. Co-Founder @nutcasemilk business@teamninja.com CIO @GSQHoldings | $GAME",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "pillar.io/ninja",
+                    "expanded_url": "https://pillar.io/ninja",
+                    "url": "https://t.co/sA56wHbQsg",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 25961,
+            "followers_count": 6527829,
+            "friends_count": 1516,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 3577,
+            "location": "Illinois, USA",
+            "media_count": 6984,
+            "name": "Ninja",
+            "normal_followers_count": 6527829,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/214201922/1748105437",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1791181533233152000/JVNg74Vp_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "Ninja",
+            "statuses_count": 46063,
+            "translator_type": "regular",
+            "url": "https://t.co/sA56wHbQsg",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "professional": {
+            "rest_id": "1729936603488121322",
+            "professional_type": "Creator",
+            "category": []
+          },
+          "tipjar_settings": {
+            "is_enabled": false,
+            "cash_app_handle": "NinjaBlevinsCA",
+            "venmo_handle": "tyler-blevins-31"
+          },
+          "super_follow_eligible": true,
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "legacy_extended_profile": {},
+          "is_profile_translatable": false,
+          "has_hidden_subscriptions_on_profile": false,
+          "verification_info": {
+            "is_identity_verified": false,
+            "reason": {
+              "description": {
+                "text": "This account is verified because it's an affiliate of @XGaming on X. Learn more",
+                "entities": [
+                  {
+                    "from_index": 54,
+                    "to_index": 62,
+                    "ref": {
+                      "url": "https://twitter.com/XGaming",
+                      "url_type": "ExternalUrl"
+                    }
+                  },
+                  {
+                    "from_index": 69,
+                    "to_index": 79,
+                    "ref": {
+                      "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
+                      "url_type": "ExternalUrl"
+                    }
+                  }
+                ]
+              },
+              "verified_since_msec": "1469459256344"
+            }
+          },
+          "highlights_info": {
+            "can_highlight_tweets": true,
+            "highlighted_tweets": "3"
+          },
+          "user_seed_tweet_count": 0,
+          "business_account": {},
+          "creator_subscriptions_count": 0
+        }
+      }
+    }
+  }
+}

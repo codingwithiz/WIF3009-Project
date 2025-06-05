@@ -1,0 +1,107 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoyNzA4MTkxNDc2",
+          "rest_id": "2708191476",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Tue Aug 05 03:50:31 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "hihi:) I stream games on twitch and youtube! \u2022 @hihistudios \u2022 @100thieves",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@valkyrae",
+                    "expanded_url": "http://youtube.com/@valkyrae",
+                    "url": "https://t.co/8brzNuR2BK",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 70918,
+            "followers_count": 2944540,
+            "friends_count": 979,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 2761,
+            "location": "",
+            "media_count": 1563,
+            "name": "RAE",
+            "normal_followers_count": 2944540,
+            "pinned_tweet_ids_str": [
+              "1652404953657520133"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2708191476/1739848349",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1891687156449673218/mxswQoOi_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "Valkyrae",
+            "statuses_count": 26030,
+            "translator_type": "none",
+            "url": "https://t.co/8brzNuR2BK",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "tipjar_settings": {},
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "legacy_extended_profile": {
+            "birthdate": {
+              "day": 8,
+              "month": 1,
+              "visibility": "Public",
+              "year_visibility": "Self"
+            }
+          },
+          "is_profile_translatable": false,
+          "has_hidden_subscriptions_on_profile": false,
+          "verification_info": {
+            "is_identity_verified": false,
+            "reason": {
+              "description": {
+                "text": "This account is verified. Learn more",
+                "entities": [
+                  {
+                    "from_index": 26,
+                    "to_index": 36,
+                    "ref": {
+                      "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                      "url_type": "ExternalUrl"
+                    }
+                  }
+                ]
+              },
+              "verified_since_msec": "1528758623559"
+            }
+          },
+          "highlights_info": {
+            "can_highlight_tweets": true,
+            "highlighted_tweets": "7"
+          },
+          "user_seed_tweet_count": 0,
+          "business_account": {},
+          "creator_subscriptions_count": 0
+        }
+      }
+    }
+  }
+}

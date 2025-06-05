@@ -1,0 +1,114 @@
+{
+  "cursor": {
+    "bottom": "0|1930568189456941053",
+    "top": "-1|1930568189456941057"
+  },
+  "result": {
+    "timeline": {
+      "instructions": [
+        {
+          "type": "TimelineClearCache"
+        },
+        {
+          "type": "TimelineTerminateTimeline",
+          "direction": "Top"
+        },
+        {
+          "type": "TimelineTerminateTimeline",
+          "direction": "Bottom"
+        },
+        {
+          "type": "TimelineAddEntries",
+          "entries": [
+            {
+              "entryId": "user-869948664843821056",
+              "sortIndex": "1930568189456941056",
+              "content": {
+                "entryType": "TimelineTimelineItem",
+                "__typename": "TimelineTimelineItem",
+                "itemContent": {
+                  "itemType": "TimelineUser",
+                  "__typename": "TimelineUser",
+                  "user_results": {
+                    "result": {
+                      "__typename": "User",
+                      "id": "VXNlcjo4Njk5NDg2NjQ4NDM4MjEwNTY=",
+                      "rest_id": "869948664843821056",
+                      "affiliates_highlighted_label": {},
+                      "has_graduated_access": true,
+                      "is_blue_verified": true,
+                      "profile_image_shape": "Circle",
+                      "legacy": {
+                        "can_dm": true,
+                        "can_media_tag": false,
+                        "created_at": "Wed May 31 16:08:19 +0000 2017",
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "description": "Mindset | Fitness | Crypto // Psychology + TA",
+                        "entities": {
+                          "description": {
+                            "urls": []
+                          }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 5802,
+                        "followers_count": 23387,
+                        "friends_count": 58,
+                        "has_custom_timelines": false,
+                        "is_translator": false,
+                        "listed_count": 19,
+                        "location": "",
+                        "media_count": 113,
+                        "name": "\ud835\ude4b\ud835\ude68\ud835\ude6e\ud835\ude58\ud835\ude5d\ud835\ude64",
+                        "normal_followers_count": 23387,
+                        "pinned_tweet_ids_str": [
+                          "1876169381455270237"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/869948664843821056/1734916794",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871002711136550912/qARFB-x6_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "PsychoCharts",
+                        "statuses_count": 127,
+                        "translator_type": "none",
+                        "verified": false,
+                        "want_retweets": false,
+                        "withheld_in_countries": []
+                      },
+                      "tipjar_settings": {}
+                    }
+                  },
+                  "userDisplayType": "User"
+                },
+                "clientEventInfo": {
+                  "component": "FollowingSgs",
+                  "element": "user"
+                }
+              }
+            },
+            {
+              "entryId": "cursor-bottom-1930568189456941055",
+              "sortIndex": "1930568189456941055",
+              "content": {
+                "entryType": "TimelineTimelineCursor",
+                "__typename": "TimelineTimelineCursor",
+                "value": "0|1930568189456941053",
+                "cursorType": "Bottom"
+              }
+            },
+            {
+              "entryId": "cursor-top-1930568189456941057",
+              "sortIndex": "1930568189456941057",
+              "content": {
+                "entryType": "TimelineTimelineCursor",
+                "__typename": "TimelineTimelineCursor",
+                "value": "-1|1930568189456941057",
+                "cursorType": "Top"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

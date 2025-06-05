@@ -1,0 +1,68 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjozNzU0MzgxMTY=",
+          "rest_id": "375438116",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": true,
+            "can_media_tag": false,
+            "created_at": "Sun Sep 18 04:07:50 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 7,
+            "followers_count": 479,
+            "friends_count": 1,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 7,
+            "location": "United States",
+            "media_count": 0,
+            "name": "pokimane",
+            "normal_followers_count": 479,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/375438116/1543557387",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067238116598210560/T5kBWsju_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "pokimane",
+            "statuses_count": 1,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "tipjar_settings": {},
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "legacy_extended_profile": {},
+          "is_profile_translatable": false,
+          "has_hidden_subscriptions_on_profile": false,
+          "verification_info": {
+            "is_identity_verified": false
+          },
+          "highlights_info": {
+            "can_highlight_tweets": false,
+            "highlighted_tweets": "0"
+          },
+          "user_seed_tweet_count": 0,
+          "business_account": {},
+          "creator_subscriptions_count": 0
+        }
+      }
+    }
+  }
+}

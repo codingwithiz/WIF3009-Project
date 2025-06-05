@@ -1,0 +1,105 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjo3NzU5NjIwMA==",
+          "rest_id": "77596200",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Sat Sep 26 22:56:04 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "COFFEE",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "topofthemornincoffee.com",
+                    "expanded_url": "https://topofthemornincoffee.com",
+                    "url": "https://t.co/vO3F13oUYo",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 60332,
+            "followers_count": 7626884,
+            "friends_count": 530,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 5504,
+            "location": "",
+            "media_count": 1962,
+            "name": "Jacksepticeye",
+            "normal_followers_count": 7626884,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/77596200/1742474440",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1902702802406633472/PxKF1TjW_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "Jacksepticeye",
+            "statuses_count": 18925,
+            "translator_type": "regular",
+            "url": "https://t.co/vO3F13oUYo",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "tipjar_settings": {},
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "legacy_extended_profile": {
+            "birthdate": {
+              "day": 7,
+              "month": 2,
+              "visibility": "Public",
+              "year_visibility": "Self"
+            }
+          },
+          "is_profile_translatable": false,
+          "has_hidden_subscriptions_on_profile": false,
+          "verification_info": {
+            "is_identity_verified": false,
+            "reason": {
+              "description": {
+                "text": "This account is verified. Learn more",
+                "entities": [
+                  {
+                    "from_index": 26,
+                    "to_index": 36,
+                    "ref": {
+                      "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                      "url_type": "ExternalUrl"
+                    }
+                  }
+                ]
+              },
+              "verified_since_msec": "1420202849076"
+            }
+          },
+          "highlights_info": {
+            "can_highlight_tweets": true,
+            "highlighted_tweets": "0"
+          },
+          "user_seed_tweet_count": 0,
+          "business_account": {},
+          "creator_subscriptions_count": 0
+        }
+      }
+    }
+  }
+}

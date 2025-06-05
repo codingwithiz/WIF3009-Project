@@ -1,0 +1,4 @@
+text_length,word_count,has_media,has_url,has_mentions,has_hashtags,favorite_count,retweet_count,reply_count,bookmark_count,views,engagement_rate,sentiment_polarity,sentiment_subjectivity,hour,is_weekend,followers_count,friends_count,listed_count,statuses_count,media_count,favourites_count,account_age_days,follower_following_ratio
+101.6875,18.4375,0.4375,0.0625,0.1875,0.0,32168.125,2223.0,824.0,814.0,675277.75,28.232582545613933,0.15966472763347764,0.3649046266233766,15.625,0.1875,7626884.0,530.0,5504.0,18925.0,1962.0,60332.0,5730.0,14363.24670433145
+64.84105566691524,12.37723043872632,,,,,,,,,,70.31794538551593,0.13244635875037622,0.23304559866424426,,,,,,,,,,
+235.0,45.0,,,,,216464.0,21744.0,7690.0,8003.0,6061850.0,238.66666666666666,,,,,,,,,,,,
