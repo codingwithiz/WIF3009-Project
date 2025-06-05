@@ -1,0 +1,110 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA5NDY5MjI=",
+          "rest_id": "190946922",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "created_at": "Wed Sep 15 06:51:14 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TSM frog - pokelawls@rightclick.gg - watch vods at https://t.co/lgGaZAY64X @pokelawls2",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "Poke.gg",
+                    "expanded_url": "http://Poke.gg",
+                    "url": "https://t.co/lgGaZAY64X",
+                    "indices": [
+                      51,
+                      74
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "twitch.tv/pokelawls",
+                    "expanded_url": "http://twitch.tv/pokelawls",
+                    "url": "https://t.co/eWci7JX8II",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 15012,
+            "followers_count": 146626,
+            "friends_count": 887,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 210,
+            "location": "Austin, TX",
+            "media_count": 1547,
+            "name": "Poke",
+            "normal_followers_count": 146626,
+            "pinned_tweet_ids_str": [
+              "1803447355754078423"
+            ],
+            "possibly_sensitive": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/190946922/1604134368",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1714460060779167744/Xf6JVzEG_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "pokelawls",
+            "statuses_count": 18834,
+            "translator_type": "none",
+            "url": "https://t.co/eWci7JX8II",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "tipjar_settings": {},
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "legacy_extended_profile": {},
+          "is_profile_translatable": false,
+          "has_hidden_subscriptions_on_profile": true,
+          "verification_info": {
+            "is_identity_verified": false,
+            "reason": {
+              "description": {
+                "text": "This account is verified. Learn more",
+                "entities": [
+                  {
+                    "from_index": 26,
+                    "to_index": 36,
+                    "ref": {
+                      "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                      "url_type": "ExternalUrl"
+                    }
+                  }
+                ]
+              },
+              "verified_since_msec": "1606934895570"
+            }
+          },
+          "highlights_info": {
+            "can_highlight_tweets": true,
+            "highlighted_tweets": "0"
+          },
+          "user_seed_tweet_count": 0,
+          "business_account": {},
+          "creator_subscriptions_count": 0
+        }
+      }
+    }
+  }
+}

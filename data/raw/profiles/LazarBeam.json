@@ -1,0 +1,86 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoyODMwNjA0NTU2",
+          "rest_id": "2830604556",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Wed Sep 24 22:52:42 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "i love fortnite",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 19027,
+            "followers_count": 2540149,
+            "friends_count": 1381,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 1017,
+            "location": "Sydney NSW",
+            "media_count": 1768,
+            "name": "LAZAR",
+            "normal_followers_count": 2540149,
+            "pinned_tweet_ids_str": [
+              "1177409164450004993"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2830604556/1578781459",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1431571754141433865/GguAhH3l_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "Lazarbeam",
+            "statuses_count": 14313,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "tipjar_settings": {},
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "legacy_extended_profile": {},
+          "is_profile_translatable": false,
+          "has_hidden_subscriptions_on_profile": false,
+          "verification_info": {
+            "is_identity_verified": false,
+            "reason": {
+              "description": {
+                "text": "This account is verified. Learn more",
+                "entities": [
+                  {
+                    "from_index": 26,
+                    "to_index": 36,
+                    "ref": {
+                      "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                      "url_type": "ExternalUrl"
+                    }
+                  }
+                ]
+              },
+              "verified_since_msec": "1541674925281"
+            }
+          },
+          "highlights_info": {
+            "can_highlight_tweets": true,
+            "highlighted_tweets": "0"
+          },
+          "user_seed_tweet_count": 0,
+          "business_account": {},
+          "creator_subscriptions_count": 0
+        }
+      }
+    }
+  }
+}

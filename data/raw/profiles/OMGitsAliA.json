@@ -1,0 +1,119 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxNTU2MjA0NjE=",
+          "rest_id": "155620461",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Mon Jun 14 16:59:39 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Hey I\u2019m Ali-A! \ud83d\ude04 Use code \"ALIA\" in the Fortnite Item Shop! #EpicPartner #AD  \ud83d\udea8 I make YouTube videos! \ud83d\udc4d\ud83c\udffb https://t.co/xRHfNxOQPQ \ud83d\udc55",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "Ali-A.shop",
+                    "expanded_url": "http://Ali-A.shop",
+                    "url": "https://t.co/xRHfNxOQPQ",
+                    "indices": [
+                      106,
+                      129
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/AliA",
+                    "expanded_url": "http://www.youtube.com/AliA",
+                    "url": "https://t.co/oH9OJfZeVd",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 66820,
+            "followers_count": 2383752,
+            "friends_count": 1011,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 1912,
+            "location": "England",
+            "media_count": 17161,
+            "name": "Ali-A",
+            "normal_followers_count": 2383752,
+            "pinned_tweet_ids_str": [
+              "1873410466627940500"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/155620461/1715109279",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1525556728967925761/Pkc6veLq_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "OMGitsAliA",
+            "statuses_count": 62636,
+            "translator_type": "regular",
+            "url": "https://t.co/oH9OJfZeVd",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "tipjar_settings": {
+            "is_enabled": true
+          },
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "legacy_extended_profile": {
+            "birthdate": {
+              "day": 6,
+              "month": 11,
+              "visibility": "Public",
+              "year_visibility": "Self"
+            }
+          },
+          "is_profile_translatable": false,
+          "has_hidden_subscriptions_on_profile": false,
+          "verification_info": {
+            "is_identity_verified": false,
+            "reason": {
+              "description": {
+                "text": "This account is verified. Learn more",
+                "entities": [
+                  {
+                    "from_index": 26,
+                    "to_index": 36,
+                    "ref": {
+                      "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                      "url_type": "ExternalUrl"
+                    }
+                  }
+                ]
+              },
+              "verified_since_msec": "1397827620828"
+            }
+          },
+          "highlights_info": {
+            "can_highlight_tweets": true,
+            "highlighted_tweets": "1"
+          },
+          "user_seed_tweet_count": 0,
+          "business_account": {},
+          "creator_subscriptions_count": 0
+        }
+      }
+    }
+  }
+}

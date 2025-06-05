@@ -1,0 +1,93 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxMTY1MDExNTk4NjcyNjUwMjQw",
+          "rest_id": "1165011598672650240",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "created_at": "Fri Aug 23 21:23:12 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "twitch.tv/Jynxzi",
+                    "expanded_url": "http://twitch.tv/Jynxzi",
+                    "url": "https://t.co/6MjpMVyONy",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 4636,
+            "followers_count": 609674,
+            "friends_count": 1204,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 93,
+            "location": "United States",
+            "media_count": 422,
+            "name": "Jynxzi",
+            "normal_followers_count": 609674,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1709345785769287680/EVoX0AWf_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "jynxzi",
+            "statuses_count": 1930,
+            "translator_type": "none",
+            "url": "https://t.co/6MjpMVyONy",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "professional": {
+            "rest_id": "1562227531952291841",
+            "professional_type": "Creator",
+            "category": [
+              {
+                "id": 959,
+                "name": "Gamer",
+                "icon_name": ""
+              }
+            ]
+          },
+          "tipjar_settings": {},
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "legacy_extended_profile": {},
+          "is_profile_translatable": false,
+          "has_hidden_subscriptions_on_profile": false,
+          "verification_info": {
+            "is_identity_verified": false
+          },
+          "highlights_info": {
+            "can_highlight_tweets": false,
+            "highlighted_tweets": "0"
+          },
+          "user_seed_tweet_count": 0,
+          "business_account": {},
+          "creator_subscriptions_count": 0
+        }
+      }
+    }
+  }
+}
