@@ -2,8 +2,8 @@
   {
     "tweets": {
       "cursor": {
-        "bottom": "DAAHCgABGsrxKRR__-4LAAIAAAATMTg2ODc0NDA0ODQ3MjkxMjMzNQgAAwAAAAIAAA",
-        "top": "DAAHCgABGsrxKRSAJxELAAIAAAATMTkzMDMwMjM2MTkxNTc1Njk0NAgAAwAAAAEAAA"
+        "bottom": "DAAHCgABGtk803i__-4LAAIAAAATMTg2ODc0NDA0ODQ3MjkxMjMzNQgAAwAAAAIAAA",
+        "top": "DAAHCgABGtk803jAJxELAAIAAAATMTkzMDMwMjM2MTkxNTc1Njk0NAgAAwAAAAEAAA"
       },
       "result": {
         "timeline": {
@@ -16,7 +16,7 @@
               "entries": [
                 {
                   "entryId": "tweet-1930302361915756944",
-                  "sortIndex": "1930620549021564928",
+                  "sortIndex": "1934644393893953536",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -63,16 +63,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -112,12 +112,12 @@
                           },
                           "is_translatable": false,
                           "views": {
-                            "count": "267224",
+                            "count": "406502",
                             "state": "EnabledWithCount"
                           },
                           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
                           "legacy": {
-                            "bookmark_count": 113,
+                            "bookmark_count": 355,
                             "bookmarked": false,
                             "created_at": "Wed Jun 04 16:35:21 +0000 2025",
                             "conversation_id_str": "1930302361915756944",
@@ -330,16 +330,16 @@
                                 }
                               ]
                             },
-                            "favorite_count": 4524,
+                            "favorite_count": 7410,
                             "favorited": false,
                             "full_text": "GIVING AWAY 70,000 GEMS TO 5 PPL \ud83d\udc8e\n\nLIKE &amp; RETWEET \u2b50\ufe0f\n\nREPLY WITH PROOF OF CODE \u2705\n\nGOOD LUCK \ud83d\ude03 https://t.co/Oyguh6xvLz",
                             "is_quote_status": false,
                             "lang": "en",
                             "possibly_sensitive": false,
                             "possibly_sensitive_editable": true,
-                            "quote_count": 10,
-                            "reply_count": 1820,
-                            "retweet_count": 2167,
+                            "quote_count": 45,
+                            "reply_count": 4283,
+                            "retweet_count": 4498,
                             "retweeted": false,
                             "user_id_str": "1165011598672650240",
                             "id_str": "1930302361915756944"
@@ -357,21 +357,21 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
                   }
                 },
                 {
-                  "entryId": "profile-conversation-1930620549021564929",
-                  "sortIndex": "1930620549021564927",
+                  "entryId": "profile-conversation-1934644393893953537",
+                  "sortIndex": "1934644393893953535",
                   "content": {
                     "entryType": "TimelineTimelineModule",
                     "__typename": "TimelineTimelineModule",
                     "items": [
                       {
-                        "entryId": "profile-conversation-1930620549021564929-tweet-1925360279203819708",
+                        "entryId": "profile-conversation-1934644393893953537-tweet-1925360279203819708",
                         "dispensable": true,
                         "item": {
                           "itemContent": {
@@ -417,16 +417,16 @@
                                           }
                                         },
                                         "fast_followers_count": 0,
-                                        "favourites_count": 4636,
-                                        "followers_count": 609674,
-                                        "friends_count": 1204,
+                                        "favourites_count": 4612,
+                                        "followers_count": 611131,
+                                        "friends_count": 1203,
                                         "has_custom_timelines": true,
                                         "is_translator": false,
-                                        "listed_count": 93,
+                                        "listed_count": 94,
                                         "location": "United States",
                                         "media_count": 422,
                                         "name": "Jynxzi",
-                                        "normal_followers_count": 609674,
+                                        "normal_followers_count": 611131,
                                         "pinned_tweet_ids_str": [],
                                         "possibly_sensitive": false,
                                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -466,12 +466,12 @@
                                 },
                                 "is_translatable": false,
                                 "views": {
-                                  "count": "635265",
+                                  "count": "671663",
                                   "state": "EnabledWithCount"
                                 },
                                 "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
                                 "legacy": {
-                                  "bookmark_count": 151,
+                                  "bookmark_count": 150,
                                   "bookmarked": false,
                                   "created_at": "Thu May 22 01:17:16 +0000 2025",
                                   "conversation_id_str": "1925360279203819708",
@@ -740,7 +740,7 @@
                                       }
                                     ]
                                   },
-                                  "favorite_count": 6443,
+                                  "favorite_count": 6500,
                                   "favorited": false,
                                   "full_text": "MAY 24th \ud83c\udf0e https://t.co/TfOWpHFFKu",
                                   "is_quote_status": false,
@@ -748,8 +748,8 @@
                                   "possibly_sensitive": false,
                                   "possibly_sensitive_editable": true,
                                   "quote_count": 48,
-                                  "reply_count": 221,
-                                  "retweet_count": 265,
+                                  "reply_count": 222,
+                                  "retweet_count": 266,
                                   "retweeted": false,
                                   "user_id_str": "1165011598672650240",
                                   "id_str": "1925360279203819708"
@@ -767,14 +767,14 @@
                             "details": {
                               "timelinesDetails": {
                                 "injectionType": "RankedOrganicTweet",
-                                "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                                "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                               }
                             }
                           }
                         }
                       },
                       {
-                        "entryId": "profile-conversation-1930620549021564929-tweet-1925597168028488062",
+                        "entryId": "profile-conversation-1934644393893953537-tweet-1925597168028488062",
                         "dispensable": true,
                         "item": {
                           "itemContent": {
@@ -820,16 +820,16 @@
                                           }
                                         },
                                         "fast_followers_count": 0,
-                                        "favourites_count": 4636,
-                                        "followers_count": 609674,
-                                        "friends_count": 1204,
+                                        "favourites_count": 4612,
+                                        "followers_count": 611131,
+                                        "friends_count": 1203,
                                         "has_custom_timelines": true,
                                         "is_translator": false,
-                                        "listed_count": 93,
+                                        "listed_count": 94,
                                         "location": "United States",
                                         "media_count": 422,
                                         "name": "Jynxzi",
-                                        "normal_followers_count": 609674,
+                                        "normal_followers_count": 611131,
                                         "pinned_tweet_ids_str": [],
                                         "possibly_sensitive": false,
                                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -869,7 +869,7 @@
                                 },
                                 "is_translatable": false,
                                 "views": {
-                                  "count": "129290",
+                                  "count": "145823",
                                   "state": "EnabledWithCount"
                                 },
                                 "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -944,7 +944,7 @@
                                       }
                                     ]
                                   },
-                                  "favorite_count": 421,
+                                  "favorite_count": 440,
                                   "favorited": false,
                                   "full_text": "@lucasxgamercr @Pedrotmcr @WallaceCR_ Team Germany \ud83c\udde9\ud83c\uddea\n\n@mortenroyale \n@xopxsam_ \n@DOoOM_cr",
                                   "in_reply_to_screen_name": "jynxzi",
@@ -972,14 +972,14 @@
                             "details": {
                               "timelinesDetails": {
                                 "injectionType": "RankedOrganicTweet",
-                                "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                                "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                               }
                             }
                           }
                         }
                       },
                       {
-                        "entryId": "profile-conversation-1930620549021564929-tweet-1925989237372989503",
+                        "entryId": "profile-conversation-1934644393893953537-tweet-1925989237372989503",
                         "dispensable": false,
                         "item": {
                           "itemContent": {
@@ -1025,16 +1025,16 @@
                                           }
                                         },
                                         "fast_followers_count": 0,
-                                        "favourites_count": 4636,
-                                        "followers_count": 609674,
-                                        "friends_count": 1204,
+                                        "favourites_count": 4612,
+                                        "followers_count": 611131,
+                                        "friends_count": 1203,
                                         "has_custom_timelines": true,
                                         "is_translator": false,
-                                        "listed_count": 93,
+                                        "listed_count": 94,
                                         "location": "United States",
                                         "media_count": 422,
                                         "name": "Jynxzi",
-                                        "normal_followers_count": 609674,
+                                        "normal_followers_count": 611131,
                                         "pinned_tweet_ids_str": [],
                                         "possibly_sensitive": false,
                                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -1074,7 +1074,7 @@
                                 },
                                 "is_translatable": false,
                                 "views": {
-                                  "count": "68066",
+                                  "count": "81711",
                                   "state": "EnabledWithCount"
                                 },
                                 "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -1176,7 +1176,7 @@
                                       }
                                     ]
                                   },
-                                  "favorite_count": 115,
+                                  "favorite_count": 125,
                                   "favorited": false,
                                   "full_text": "@lucasxgamercr @Pedrotmcr @WallaceCR_ @mortenroyale @xopxsam_ @DOoOM_cr Team Netherlands \ud83c\uddf3\ud83c\uddf1\n\n@SurgicalGoblin\n@sightcr_ \n@Bobtherock03",
                                   "in_reply_to_screen_name": "jynxzi",
@@ -1204,7 +1204,7 @@
                             "details": {
                               "timelinesDetails": {
                                 "injectionType": "RankedOrganicTweet",
-                                "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                                "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                               }
                             }
                           }
@@ -1228,7 +1228,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -1236,7 +1236,7 @@
                 },
                 {
                   "entryId": "tweet-1925595075809067512",
-                  "sortIndex": "1930620549021564926",
+                  "sortIndex": "1934644393893953534",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -1283,16 +1283,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -1378,7 +1378,7 @@
                             "lang": "en",
                             "quote_count": 0,
                             "reply_count": 0,
-                            "retweet_count": 23,
+                            "retweet_count": 24,
                             "retweeted": false,
                             "user_id_str": "1165011598672650240",
                             "id_str": "1925595075809067512",
@@ -1422,8 +1422,8 @@
                                           }
                                         },
                                         "fast_followers_count": 0,
-                                        "favourites_count": 15085,
-                                        "followers_count": 31719,
+                                        "favourites_count": 15089,
+                                        "followers_count": 32282,
                                         "friends_count": 406,
                                         "has_custom_timelines": false,
                                         "is_translator": false,
@@ -1431,14 +1431,14 @@
                                         "location": "youtube.com/@kfcclash",
                                         "media_count": 360,
                                         "name": "Ken",
-                                        "normal_followers_count": 31719,
+                                        "normal_followers_count": 32282,
                                         "pinned_tweet_ids_str": [],
                                         "possibly_sensitive": false,
                                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/807521616108265472/1748192871",
                                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1692148699080826880/BK6bEOcO_normal.jpg",
                                         "profile_interstitial_type": "",
                                         "screen_name": "kfcclash",
-                                        "statuses_count": 2175,
+                                        "statuses_count": 2177,
                                         "translator_type": "none",
                                         "url": "https://t.co/CyWyZVH2rj",
                                         "verified": false,
@@ -1460,12 +1460,12 @@
                                 },
                                 "is_translatable": false,
                                 "views": {
-                                  "count": "137523",
+                                  "count": "152741",
                                   "state": "EnabledWithCount"
                                 },
                                 "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
                                 "legacy": {
-                                  "bookmark_count": 26,
+                                  "bookmark_count": 25,
                                   "bookmarked": false,
                                   "created_at": "Thu May 22 16:06:01 +0000 2025",
                                   "conversation_id_str": "1925583938816549335",
@@ -1490,14 +1490,14 @@
                                       }
                                     ]
                                   },
-                                  "favorite_count": 1913,
+                                  "favorite_count": 1982,
                                   "favorited": false,
                                   "full_text": "wake up @jynxzi it's clash time",
                                   "is_quote_status": false,
                                   "lang": "en",
                                   "quote_count": 3,
                                   "reply_count": 30,
-                                  "retweet_count": 23,
+                                  "retweet_count": 24,
                                   "retweeted": false,
                                   "user_id_str": "807521616108265472",
                                   "id_str": "1925583938816549335"
@@ -1518,7 +1518,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -1526,7 +1526,7 @@
                 },
                 {
                   "entryId": "tweet-1924641149240647780",
-                  "sortIndex": "1930620549021564925",
+                  "sortIndex": "1934644393893953533",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -1573,16 +1573,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -1668,7 +1668,7 @@
                             "lang": "en",
                             "quote_count": 0,
                             "reply_count": 0,
-                            "retweet_count": 50,
+                            "retweet_count": 52,
                             "retweeted": false,
                             "user_id_str": "1165011598672650240",
                             "id_str": "1924641149240647780",
@@ -1709,23 +1709,23 @@
                                           }
                                         },
                                         "fast_followers_count": 0,
-                                        "favourites_count": 23336,
-                                        "followers_count": 46086,
-                                        "friends_count": 471,
+                                        "favourites_count": 23400,
+                                        "followers_count": 46143,
+                                        "friends_count": 474,
                                         "has_custom_timelines": false,
                                         "is_translator": false,
                                         "listed_count": 76,
                                         "location": "Virginia, USA",
-                                        "media_count": 2168,
+                                        "media_count": 2170,
                                         "name": "Boss",
-                                        "normal_followers_count": 46086,
+                                        "normal_followers_count": 46143,
                                         "pinned_tweet_ids_str": [],
                                         "possibly_sensitive": false,
                                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/894726753507266562/1694898318",
                                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1900277755670843392/yi5Ct4We_normal.jpg",
                                         "profile_interstitial_type": "",
                                         "screen_name": "BossCR",
-                                        "statuses_count": 10361,
+                                        "statuses_count": 10367,
                                         "translator_type": "none",
                                         "verified": false,
                                         "want_retweets": false,
@@ -1770,7 +1770,7 @@
                                 },
                                 "is_translatable": false,
                                 "views": {
-                                  "count": "147439",
+                                  "count": "160559",
                                   "state": "EnabledWithCount"
                                 },
                                 "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -2873,7 +2873,7 @@
                                       }
                                     ]
                                   },
-                                  "favorite_count": 2000,
+                                  "favorite_count": 2018,
                                   "favorited": false,
                                   "full_text": "I didn\u2019t think it was possible, but @jynxzi has singlehanded made Clash Royale the most popular it has ever been in 3 years after a devastating update.\n\nCreators are having their most popular videos they\u2019ve had in ages because of collabs, and millions of new eyes are on the game\u2026 https://t.co/R6NWQ1txkF",
                                   "is_quote_status": false,
@@ -2881,8 +2881,8 @@
                                   "possibly_sensitive": false,
                                   "possibly_sensitive_editable": true,
                                   "quote_count": 9,
-                                  "reply_count": 72,
-                                  "retweet_count": 50,
+                                  "reply_count": 73,
+                                  "retweet_count": 52,
                                   "retweeted": false,
                                   "user_id_str": "894726753507266562",
                                   "id_str": "1924637301616808327"
@@ -2903,7 +2903,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -2911,7 +2911,7 @@
                 },
                 {
                   "entryId": "tweet-1924537131583619416",
-                  "sortIndex": "1930620549021564924",
+                  "sortIndex": "1934644393893953532",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -2958,16 +2958,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -3007,12 +3007,12 @@
                           },
                           "is_translatable": false,
                           "views": {
-                            "count": "246369",
+                            "count": "254797",
                             "state": "EnabledWithCount"
                           },
                           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
                           "legacy": {
-                            "bookmark_count": 70,
+                            "bookmark_count": 69,
                             "bookmarked": false,
                             "created_at": "Mon May 19 18:46:22 +0000 2025",
                             "conversation_id_str": "1924537131583619416",
@@ -3235,7 +3235,7 @@
                                 }
                               ]
                             },
-                            "favorite_count": 4964,
+                            "favorite_count": 4988,
                             "favorited": false,
                             "full_text": "LETS GO BABY\n\nTHANK YOU @supercell https://t.co/wkhOSwAINP",
                             "is_quote_status": false,
@@ -3244,7 +3244,7 @@
                             "possibly_sensitive_editable": true,
                             "quote_count": 5,
                             "reply_count": 156,
-                            "retweet_count": 94,
+                            "retweet_count": 95,
                             "retweeted": false,
                             "user_id_str": "1165011598672650240",
                             "id_str": "1924537131583619416"
@@ -3262,628 +3262,21 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
                   }
                 },
                 {
-                  "entryId": "who-to-follow-1930620549021564933",
-                  "sortIndex": "1930620549021564923",
+                  "entryId": "who-to-follow-1934644393893953541",
+                  "sortIndex": "1934644393893953531",
                   "content": {
                     "entryType": "TimelineTimelineModule",
                     "__typename": "TimelineTimelineModule",
                     "items": [
                       {
-                        "entryId": "who-to-follow-1930620549021564933-user-830435768514596866",
-                        "item": {
-                          "itemContent": {
-                            "itemType": "TimelineUser",
-                            "__typename": "TimelineUser",
-                            "user_results": {
-                              "result": {
-                                "__typename": "User",
-                                "id": "VXNlcjo4MzA0MzU3Njg1MTQ1OTY4NjY=",
-                                "rest_id": "830435768514596866",
-                                "affiliates_highlighted_label": {},
-                                "has_graduated_access": true,
-                                "is_blue_verified": true,
-                                "profile_image_shape": "Circle",
-                                "legacy": {
-                                  "can_dm": true,
-                                  "can_media_tag": true,
-                                  "created_at": "Sat Feb 11 15:18:10 +0000 2017",
-                                  "default_profile": true,
-                                  "default_profile_image": false,
-                                  "description": "A Lit Content Creator.",
-                                  "entities": {
-                                    "description": {
-                                      "urls": []
-                                    },
-                                    "url": {
-                                      "urls": [
-                                        {
-                                          "display_url": "youtube.com/channel/UCvCfp\u2026",
-                                          "expanded_url": "https://youtube.com/channel/UCvCfpQXRXdJdL07pzTIA6Cw",
-                                          "url": "https://t.co/EbubU3N5us",
-                                          "indices": [
-                                            0,
-                                            23
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  },
-                                  "fast_followers_count": 0,
-                                  "favourites_count": 1499,
-                                  "followers_count": 2869134,
-                                  "friends_count": 208,
-                                  "has_custom_timelines": true,
-                                  "is_translator": false,
-                                  "listed_count": 776,
-                                  "location": "",
-                                  "media_count": 595,
-                                  "name": "AMP KAI",
-                                  "normal_followers_count": 2869134,
-                                  "pinned_tweet_ids_str": [
-                                    "1350290498687295489"
-                                  ],
-                                  "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/830435768514596866/1713752615",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1784705465001115648/becwGOxu_normal.jpg",
-                                  "profile_interstitial_type": "",
-                                  "screen_name": "KaiCenat",
-                                  "statuses_count": 1714,
-                                  "translator_type": "none",
-                                  "url": "https://t.co/EbubU3N5us",
-                                  "verified": false,
-                                  "want_retweets": false,
-                                  "withheld_in_countries": []
-                                },
-                                "tipjar_settings": {}
-                              }
-                            },
-                            "userDisplayType": "User"
-                          },
-                          "clientEventInfo": {
-                            "component": "suggest_who_to_follow",
-                            "element": "user",
-                            "details": {
-                              "timelinesDetails": {
-                                "injectionType": "WhoToFollow",
-                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
-                                "sourceData": "DAABCgABHa5Vt0lBsyAKAAIAAAAAAAAAAAAIAAIAAACDCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
-                              }
-                            }
-                          }
-                        }
-                      },
-                      {
-                        "entryId": "who-to-follow-1930620549021564933-user-1468010815861059587",
-                        "item": {
-                          "itemContent": {
-                            "itemType": "TimelineUser",
-                            "__typename": "TimelineUser",
-                            "user_results": {
-                              "result": {
-                                "__typename": "User",
-                                "id": "VXNlcjoxNDY4MDEwODE1ODYxMDU5NTg3",
-                                "rest_id": "1468010815861059587",
-                                "affiliates_highlighted_label": {},
-                                "has_graduated_access": true,
-                                "is_blue_verified": false,
-                                "profile_image_shape": "Circle",
-                                "legacy": {
-                                  "can_dm": true,
-                                  "can_media_tag": true,
-                                  "created_at": "Tue Dec 07 00:14:03 +0000 2021",
-                                  "default_profile": true,
-                                  "default_profile_image": false,
-                                  "description": "",
-                                  "entities": {
-                                    "description": {
-                                      "urls": []
-                                    }
-                                  },
-                                  "fast_followers_count": 0,
-                                  "favourites_count": 12,
-                                  "followers_count": 13047,
-                                  "friends_count": 36,
-                                  "has_custom_timelines": true,
-                                  "is_translator": false,
-                                  "listed_count": 5,
-                                  "location": "",
-                                  "media_count": 21,
-                                  "name": "\u200e\u200f\u064b",
-                                  "normal_followers_count": 13047,
-                                  "pinned_tweet_ids_str": [],
-                                  "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468010815861059587/1730948212",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1928973115067084801/1NTnT_iJ_normal.jpg",
-                                  "profile_interstitial_type": "",
-                                  "screen_name": "rnadisyn",
-                                  "statuses_count": 33,
-                                  "translator_type": "none",
-                                  "verified": false,
-                                  "want_retweets": false,
-                                  "withheld_in_countries": []
-                                },
-                                "tipjar_settings": {
-                                  "is_enabled": false
-                                }
-                              }
-                            },
-                            "userDisplayType": "User"
-                          },
-                          "clientEventInfo": {
-                            "component": "suggest_who_to_follow",
-                            "element": "user",
-                            "details": {
-                              "timelinesDetails": {
-                                "injectionType": "WhoToFollow",
-                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
-                                "sourceData": "DAABCgABHa5Vt0lBsyAKAAIAAAAAAAAAAAAIAAIAAACDCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
-                              }
-                            }
-                          }
-                        }
-                      },
-                      {
-                        "entryId": "who-to-follow-1930620549021564933-user-1247334024185442304",
-                        "item": {
-                          "itemContent": {
-                            "itemType": "TimelineUser",
-                            "__typename": "TimelineUser",
-                            "user_results": {
-                              "result": {
-                                "__typename": "User",
-                                "id": "VXNlcjoxMjQ3MzM0MDI0MTg1NDQyMzA0",
-                                "rest_id": "1247334024185442304",
-                                "affiliates_highlighted_label": {},
-                                "has_graduated_access": true,
-                                "is_blue_verified": true,
-                                "profile_image_shape": "Circle",
-                                "legacy": {
-                                  "can_dm": true,
-                                  "can_media_tag": true,
-                                  "created_at": "Tue Apr 07 01:23:11 +0000 2020",
-                                  "default_profile": true,
-                                  "default_profile_image": false,
-                                  "description": "Stream @Rainbow6game on @Twitch | Business: Justinbaca139@yahoo.com | Not Stopping Until We Win.. \ud83d\ude4f",
-                                  "entities": {
-                                    "description": {
-                                      "urls": []
-                                    },
-                                    "url": {
-                                      "urls": [
-                                        {
-                                          "display_url": "twitch.tv/Skyte",
-                                          "expanded_url": "https://www.twitch.tv/Skyte",
-                                          "url": "https://t.co/dSkyZebHc4",
-                                          "indices": [
-                                            0,
-                                            23
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  },
-                                  "fast_followers_count": 0,
-                                  "favourites_count": 4362,
-                                  "followers_count": 26030,
-                                  "friends_count": 421,
-                                  "has_custom_timelines": true,
-                                  "is_translator": false,
-                                  "listed_count": 13,
-                                  "location": "Live on Twitch",
-                                  "media_count": 1365,
-                                  "name": "Skyte",
-                                  "normal_followers_count": 26030,
-                                  "pinned_tweet_ids_str": [],
-                                  "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247334024185442304/1705182207",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1924773463803494406/yv7G4MGw_normal.jpg",
-                                  "profile_interstitial_type": "",
-                                  "screen_name": "SkyteOnTwitch",
-                                  "statuses_count": 6746,
-                                  "translator_type": "none",
-                                  "url": "https://t.co/dSkyZebHc4",
-                                  "verified": false,
-                                  "want_retweets": false,
-                                  "withheld_in_countries": []
-                                },
-                                "tipjar_settings": {}
-                              }
-                            },
-                            "userDisplayType": "User"
-                          },
-                          "clientEventInfo": {
-                            "component": "suggest_who_to_follow",
-                            "element": "user",
-                            "details": {
-                              "timelinesDetails": {
-                                "injectionType": "WhoToFollow",
-                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
-                                "sourceData": "DAABCgABHa5Vt0lBsyAKAAIAAAAAAAAAAAAIAAIAAACDCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
-                              }
-                            }
-                          }
-                        }
-                      },
-                      {
-                        "entryId": "who-to-follow-1930620549021564933-user-1470291170211373057",
-                        "item": {
-                          "itemContent": {
-                            "itemType": "TimelineUser",
-                            "__typename": "TimelineUser",
-                            "user_results": {
-                              "result": {
-                                "__typename": "User",
-                                "id": "VXNlcjoxNDcwMjkxMTcwMjExMzczMDU3",
-                                "rest_id": "1470291170211373057",
-                                "affiliates_highlighted_label": {},
-                                "has_graduated_access": true,
-                                "is_blue_verified": false,
-                                "profile_image_shape": "Circle",
-                                "legacy": {
-                                  "can_dm": true,
-                                  "can_media_tag": true,
-                                  "created_at": "Mon Dec 13 07:15:16 +0000 2021",
-                                  "default_profile": true,
-                                  "default_profile_image": false,
-                                  "description": "I stream sometimes",
-                                  "entities": {
-                                    "description": {
-                                      "urls": []
-                                    },
-                                    "url": {
-                                      "urls": [
-                                        {
-                                          "display_url": "linktr.ee/kinggbradd",
-                                          "expanded_url": "https://linktr.ee/kinggbradd",
-                                          "url": "https://t.co/qSkpMUREdQ",
-                                          "indices": [
-                                            0,
-                                            23
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  },
-                                  "fast_followers_count": 0,
-                                  "favourites_count": 6392,
-                                  "followers_count": 20184,
-                                  "friends_count": 3669,
-                                  "has_custom_timelines": true,
-                                  "is_translator": false,
-                                  "listed_count": 5,
-                                  "location": "",
-                                  "media_count": 2010,
-                                  "name": "Brad",
-                                  "normal_followers_count": 20184,
-                                  "pinned_tweet_ids_str": [],
-                                  "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470291170211373057/1738558580",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1929143113802473472/2URdbBXl_normal.jpg",
-                                  "profile_interstitial_type": "",
-                                  "screen_name": "KinggBradd",
-                                  "statuses_count": 6088,
-                                  "translator_type": "none",
-                                  "url": "https://t.co/qSkpMUREdQ",
-                                  "verified": false,
-                                  "want_retweets": false,
-                                  "withheld_in_countries": []
-                                },
-                                "tipjar_settings": {}
-                              }
-                            },
-                            "userDisplayType": "User"
-                          },
-                          "clientEventInfo": {
-                            "component": "suggest_who_to_follow",
-                            "element": "user",
-                            "details": {
-                              "timelinesDetails": {
-                                "injectionType": "WhoToFollow",
-                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
-                                "sourceData": "DAABCgABHa5Vt0lBsyAKAAIAAAAAAAAAAAAIAAIAAACDCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
-                              }
-                            }
-                          }
-                        }
-                      },
-                      {
-                        "entryId": "who-to-follow-1930620549021564933-user-1284141599694508034",
-                        "item": {
-                          "itemContent": {
-                            "itemType": "TimelineUser",
-                            "__typename": "TimelineUser",
-                            "user_results": {
-                              "result": {
-                                "__typename": "User",
-                                "id": "VXNlcjoxMjg0MTQxNTk5Njk0NTA4MDM0",
-                                "rest_id": "1284141599694508034",
-                                "affiliates_highlighted_label": {},
-                                "has_graduated_access": true,
-                                "is_blue_verified": true,
-                                "profile_image_shape": "Circle",
-                                "legacy": {
-                                  "can_dm": false,
-                                  "can_media_tag": true,
-                                  "created_at": "Fri Jul 17 15:03:20 +0000 2020",
-                                  "default_profile": true,
-                                  "default_profile_image": false,
-                                  "description": "\ud83c\uddec\ud83c\udde7 | Streaming at: https://t.co/lcv1GGjVOM | Business inquiries: Thaqil@elusive-agency.com",
-                                  "entities": {
-                                    "description": {
-                                      "urls": [
-                                        {
-                                          "display_url": "twitch.tv/thaqil",
-                                          "expanded_url": "http://twitch.tv/thaqil",
-                                          "url": "https://t.co/lcv1GGjVOM",
-                                          "indices": [
-                                            19,
-                                            42
-                                          ]
-                                        }
-                                      ]
-                                    },
-                                    "url": {
-                                      "urls": [
-                                        {
-                                          "display_url": "youtube.com/thaqil",
-                                          "expanded_url": "https://www.youtube.com/thaqil",
-                                          "url": "https://t.co/Yr5A6B68CS",
-                                          "indices": [
-                                            0,
-                                            23
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  },
-                                  "fast_followers_count": 0,
-                                  "favourites_count": 979,
-                                  "followers_count": 41312,
-                                  "friends_count": 498,
-                                  "has_custom_timelines": true,
-                                  "is_translator": false,
-                                  "listed_count": 13,
-                                  "location": "",
-                                  "media_count": 374,
-                                  "name": "thaqil",
-                                  "normal_followers_count": 41312,
-                                  "pinned_tweet_ids_str": [
-                                    "1829596627612701174"
-                                  ],
-                                  "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1284141599694508034/1681852474",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1899568426370150400/u21IqRmE_normal.jpg",
-                                  "profile_interstitial_type": "",
-                                  "screen_name": "imthaqil",
-                                  "statuses_count": 1851,
-                                  "translator_type": "none",
-                                  "url": "https://t.co/Yr5A6B68CS",
-                                  "verified": false,
-                                  "want_retweets": false,
-                                  "withheld_in_countries": []
-                                },
-                                "tipjar_settings": {}
-                              }
-                            },
-                            "userDisplayType": "User"
-                          },
-                          "clientEventInfo": {
-                            "component": "suggest_who_to_follow",
-                            "element": "user",
-                            "details": {
-                              "timelinesDetails": {
-                                "injectionType": "WhoToFollow",
-                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
-                                "sourceData": "DAABCgABHa5Vt0lBsyAKAAIAAAAAAAAAAAAIAAIAAACDCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
-                              }
-                            }
-                          }
-                        }
-                      },
-                      {
-                        "entryId": "who-to-follow-1930620549021564933-user-1160316916319379456",
-                        "item": {
-                          "itemContent": {
-                            "itemType": "TimelineUser",
-                            "__typename": "TimelineUser",
-                            "user_results": {
-                              "result": {
-                                "__typename": "User",
-                                "id": "VXNlcjoxMTYwMzE2OTE2MzE5Mzc5NDU2",
-                                "rest_id": "1160316916319379456",
-                                "affiliates_highlighted_label": {},
-                                "has_graduated_access": true,
-                                "is_blue_verified": false,
-                                "profile_image_shape": "Circle",
-                                "legacy": {
-                                  "can_dm": true,
-                                  "can_media_tag": true,
-                                  "created_at": "Sat Aug 10 22:28:05 +0000 2019",
-                                  "default_profile": true,
-                                  "default_profile_image": false,
-                                  "description": "@Twitch Partner \u227d^\u2022\u2a4a\u2022^\u227c \ud83d\udc8c: ipxppy@gmail.com",
-                                  "entities": {
-                                    "description": {
-                                      "urls": []
-                                    },
-                                    "url": {
-                                      "urls": [
-                                        {
-                                          "display_url": "twitch.tv/PXPPY",
-                                          "expanded_url": "http://twitch.tv/PXPPY",
-                                          "url": "https://t.co/KP6MOjkYiy",
-                                          "indices": [
-                                            0,
-                                            23
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  },
-                                  "fast_followers_count": 0,
-                                  "favourites_count": 9693,
-                                  "followers_count": 33740,
-                                  "friends_count": 797,
-                                  "has_custom_timelines": true,
-                                  "is_translator": false,
-                                  "listed_count": 12,
-                                  "location": "04 ",
-                                  "media_count": 1505,
-                                  "name": "Poppy\ud83d\udc3b",
-                                  "normal_followers_count": 33740,
-                                  "pinned_tweet_ids_str": [
-                                    "1766155464083906859"
-                                  ],
-                                  "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1160316916319379456/1699888319",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1911799086652493824/mS4BRqJJ_normal.jpg",
-                                  "profile_interstitial_type": "",
-                                  "screen_name": "IPxpy",
-                                  "statuses_count": 11062,
-                                  "translator_type": "none",
-                                  "url": "https://t.co/KP6MOjkYiy",
-                                  "verified": false,
-                                  "want_retweets": false,
-                                  "withheld_in_countries": []
-                                },
-                                "professional": {
-                                  "rest_id": "1472429705441673216",
-                                  "professional_type": "Creator",
-                                  "category": []
-                                },
-                                "tipjar_settings": {
-                                  "is_enabled": false,
-                                  "cash_app_handle": "LPxppy"
-                                }
-                              }
-                            },
-                            "userDisplayType": "User"
-                          },
-                          "clientEventInfo": {
-                            "component": "suggest_who_to_follow",
-                            "element": "user",
-                            "details": {
-                              "timelinesDetails": {
-                                "injectionType": "WhoToFollow",
-                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
-                                "sourceData": "DAABCgABHa5Vt0lBsyAKAAIAAAAAAAAAAAAIAAIAAACDCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
-                              }
-                            }
-                          }
-                        }
-                      },
-                      {
-                        "entryId": "who-to-follow-1930620549021564933-user-984239007482679296",
-                        "item": {
-                          "itemContent": {
-                            "itemType": "TimelineUser",
-                            "__typename": "TimelineUser",
-                            "user_results": {
-                              "result": {
-                                "__typename": "User",
-                                "id": "VXNlcjo5ODQyMzkwMDc0ODI2NzkyOTY=",
-                                "rest_id": "984239007482679296",
-                                "affiliates_highlighted_label": {},
-                                "has_graduated_access": true,
-                                "is_blue_verified": true,
-                                "profile_image_shape": "Circle",
-                                "legacy": {
-                                  "can_dm": false,
-                                  "can_media_tag": true,
-                                  "created_at": "Thu Apr 12 01:17:20 +0000 2018",
-                                  "default_profile": true,
-                                  "default_profile_image": false,
-                                  "description": "Official account for #Phasmophobia, developed by @KineticGamesDev.\n\nSupport: https://t.co/vWidKSfd40\nOfficial Partners: https://t.co/38lPrzgCq2",
-                                  "entities": {
-                                    "description": {
-                                      "urls": [
-                                        {
-                                          "display_url": "discord.gg/Phasmophobia",
-                                          "expanded_url": "http://discord.gg/Phasmophobia",
-                                          "url": "https://t.co/vWidKSfd40",
-                                          "indices": [
-                                            77,
-                                            100
-                                          ]
-                                        },
-                                        {
-                                          "display_url": "linktr.ee/phasmophobiacc",
-                                          "expanded_url": "http://linktr.ee/phasmophobiacc",
-                                          "url": "https://t.co/38lPrzgCq2",
-                                          "indices": [
-                                            120,
-                                            143
-                                          ]
-                                        }
-                                      ]
-                                    },
-                                    "url": {
-                                      "urls": [
-                                        {
-                                          "display_url": "kineticgames.co.uk",
-                                          "expanded_url": "https://kineticgames.co.uk/",
-                                          "url": "https://t.co/OqNVaOlAYX",
-                                          "indices": [
-                                            0,
-                                            23
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  },
-                                  "fast_followers_count": 0,
-                                  "favourites_count": 787,
-                                  "followers_count": 264143,
-                                  "friends_count": 143,
-                                  "has_custom_timelines": true,
-                                  "is_translator": false,
-                                  "listed_count": 375,
-                                  "location": "Willow Street House",
-                                  "media_count": 364,
-                                  "name": "Phasmophobia",
-                                  "normal_followers_count": 264143,
-                                  "pinned_tweet_ids_str": [
-                                    "1928089219957686605"
-                                  ],
-                                  "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/984239007482679296/1724080148",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1825550566967111680/-lEFgRS-_normal.jpg",
-                                  "profile_interstitial_type": "",
-                                  "screen_name": "PlayPhasmo",
-                                  "statuses_count": 1543,
-                                  "translator_type": "none",
-                                  "url": "https://t.co/OqNVaOlAYX",
-                                  "verified": false,
-                                  "want_retweets": false,
-                                  "withheld_in_countries": []
-                                },
-                                "tipjar_settings": {}
-                              }
-                            },
-                            "userDisplayType": "User"
-                          },
-                          "clientEventInfo": {
-                            "component": "suggest_who_to_follow",
-                            "element": "user",
-                            "details": {
-                              "timelinesDetails": {
-                                "injectionType": "WhoToFollow",
-                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
-                                "sourceData": "DAABCgABHa5Vt0lBsyAKAAIAAAAAAAAAAAAIAAIAAACDCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
-                              }
-                            }
-                          }
-                        }
-                      },
-                      {
-                        "entryId": "who-to-follow-1930620549021564933-user-2802759144",
+                        "entryId": "who-to-follow-1934644393893953541-user-2802759144",
                         "item": {
                           "itemContent": {
                             "itemType": "TimelineUser",
@@ -3903,7 +3296,7 @@
                                   "created_at": "Thu Sep 11 01:34:44 +0000 2014",
                                   "default_profile": false,
                                   "default_profile_image": false,
-                                  "description": "@ProSleeveGG - https://t.co/pt7y8Ftvs8\n@Rainbow6Game player https://t.co/IABdJ2Rhju https://t.co/b5OCgksXoY Business Inquiries: beaulo@viralnationtalent.com",
+                                  "description": "@ProSleeveGG - https://t.co/pt7y8Ftvs8\n@Rainbow6Game player https://t.co/IABdJ2Rhju https://t.co/b5OCgksXoY Business Inquiries: beaulo@mythictalent.com",
                                   "entities": {
                                     "description": {
                                       "urls": [
@@ -3938,16 +3331,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 6333,
-                                  "followers_count": 246636,
-                                  "friends_count": 499,
+                                  "favourites_count": 6338,
+                                  "followers_count": 246739,
+                                  "friends_count": 501,
                                   "has_custom_timelines": false,
                                   "is_translator": false,
-                                  "listed_count": 207,
+                                  "listed_count": 205,
                                   "location": "Austin, TX",
-                                  "media_count": 705,
+                                  "media_count": 707,
                                   "name": "Beaulo",
-                                  "normal_followers_count": 246636,
+                                  "normal_followers_count": 246739,
                                   "pinned_tweet_ids_str": [
                                     "1793383657740116128"
                                   ],
@@ -3956,7 +3349,7 @@
                                   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1793387951243636737/LSQgjjFE_normal.jpg",
                                   "profile_interstitial_type": "",
                                   "screen_name": "Beaulooo",
-                                  "statuses_count": 4329,
+                                  "statuses_count": 4340,
                                   "translator_type": "none",
                                   "verified": false,
                                   "want_retweets": false,
@@ -3979,14 +3372,14 @@
                               "timelinesDetails": {
                                 "injectionType": "WhoToFollow",
                                 "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
-                                "sourceData": "DAABCgABHa5Vt0lBsyAKAAIAAAAAAAAAAAAIAAIAAACDCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
+                                "sourceData": "DAABCgABWC3uymYuyHYKAAIAAAAAAAAAAAAIAAIAAACICAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
                               }
                             }
                           }
                         }
                       },
                       {
-                        "entryId": "who-to-follow-1930620549021564933-user-1176723320089169920",
+                        "entryId": "who-to-follow-1934644393893953541-user-1322134910241513472",
                         "item": {
                           "itemContent": {
                             "itemType": "TimelineUser",
@@ -3994,68 +3387,147 @@
                             "user_results": {
                               "result": {
                                 "__typename": "User",
-                                "id": "VXNlcjoxMTc2NzIzMzIwMDg5MTY5OTIw",
-                                "rest_id": "1176723320089169920",
+                                "id": "VXNlcjoxMzIyMTM0OTEwMjQxNTEzNDcy",
+                                "rest_id": "1322134910241513472",
                                 "affiliates_highlighted_label": {},
                                 "has_graduated_access": true,
                                 "is_blue_verified": true,
                                 "profile_image_shape": "Circle",
                                 "legacy": {
-                                  "can_dm": false,
-                                  "can_media_tag": false,
-                                  "created_at": "Wed Sep 25 05:01:23 +0000 2019",
+                                  "can_dm": true,
+                                  "can_media_tag": true,
+                                  "created_at": "Fri Oct 30 11:15:09 +0000 2020",
                                   "default_profile": true,
                                   "default_profile_image": false,
-                                  "description": "Radiant #420 | https://t.co/JP3E3rXhi9 | https://t.co/XI9ofuHwkR | Business inquiries: teamkyedae@unitedtalent.com",
+                                  "description": "YouTube 341k+ | TikTok 917k+ | Twitch 98k+ | Husband - @Coloringboook Business Inquiries: AnifexTT@gmail.com",
                                   "entities": {
                                     "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
                                       "urls": [
                                         {
-                                          "display_url": "twitch.tv/Kyedae",
-                                          "expanded_url": "http://twitch.tv/Kyedae",
-                                          "url": "https://t.co/JP3E3rXhi9",
+                                          "display_url": "youtube.com/@Anifex-Iv",
+                                          "expanded_url": "https://youtube.com/@Anifex-Iv",
+                                          "url": "https://t.co/ga7rp53AzT",
                                           "indices": [
-                                            15,
-                                            38
-                                          ]
-                                        },
-                                        {
-                                          "display_url": "instagram.com/kyedae",
-                                          "expanded_url": "http://instagram.com/kyedae",
-                                          "url": "https://t.co/XI9ofuHwkR",
-                                          "indices": [
-                                            41,
-                                            64
+                                            0,
+                                            23
                                           ]
                                         }
                                       ]
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 15982,
-                                  "followers_count": 1082972,
-                                  "friends_count": 541,
+                                  "favourites_count": 27605,
+                                  "followers_count": 26810,
+                                  "friends_count": 251,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 659,
-                                  "location": "Tyson my husband+irene my wife",
-                                  "media_count": 416,
-                                  "name": "Kyedae",
-                                  "normal_followers_count": 1082972,
+                                  "listed_count": 4,
+                                  "location": "",
+                                  "media_count": 2371,
+                                  "name": "Anifex",
+                                  "normal_followers_count": 26810,
+                                  "pinned_tweet_ids_str": [
+                                    "1799111362830066000"
+                                  ],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1322134910241513472/1719010535",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1814775031408259072/bB1DZxMa_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "AnifexIv",
+                                  "statuses_count": 11955,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/ga7rp53AzT",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "tipjar_settings": {}
+                              }
+                            },
+                            "userDisplayType": "User"
+                          },
+                          "clientEventInfo": {
+                            "component": "suggest_who_to_follow",
+                            "element": "user",
+                            "details": {
+                              "timelinesDetails": {
+                                "injectionType": "WhoToFollow",
+                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
+                                "sourceData": "DAABCgABWC3uymYuyHYKAAIAAAAAAAAAAAAIAAIAAACICAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "entryId": "who-to-follow-1934644393893953541-user-735262296633573377",
+                        "item": {
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "__typename": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjo3MzUyNjIyOTY2MzM1NzMzNzc=",
+                                "rest_id": "735262296633573377",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": true,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": true,
+                                  "created_at": "Wed May 25 00:12:46 +0000 2016",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Business: skittlz54@gmail.com",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "youtube.com/skittlz",
+                                          "expanded_url": "https://www.youtube.com/skittlz",
+                                          "url": "https://t.co/U34xI6Oiq0",
+                                          "indices": [
+                                            0,
+                                            23
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 13558,
+                                  "followers_count": 54629,
+                                  "friends_count": 655,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 30,
+                                  "location": "ATX",
+                                  "media_count": 650,
+                                  "name": "Karan",
+                                  "normal_followers_count": 54629,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176723320089169920/1737366032",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881275559893782528/YGxvDi28_normal.jpg",
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/735262296633573377/1664004336",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1810967267527593984/sSGchiCm_normal.jpg",
                                   "profile_interstitial_type": "",
-                                  "screen_name": "kyedae",
-                                  "statuses_count": 3328,
+                                  "screen_name": "Skitttlz",
+                                  "statuses_count": 3358,
                                   "translator_type": "none",
+                                  "url": "https://t.co/U34xI6Oiq0",
                                   "verified": false,
                                   "want_retweets": false,
                                   "withheld_in_countries": []
                                 },
                                 "professional": {
-                                  "rest_id": "1485005499082887173",
+                                  "rest_id": "1636108991632662528",
                                   "professional_type": "Creator",
                                   "category": []
                                 },
@@ -4071,14 +3543,14 @@
                               "timelinesDetails": {
                                 "injectionType": "WhoToFollow",
                                 "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
-                                "sourceData": "DAABCgABHa5Vt0lBsyAKAAIAAAAAAAAAAAAIAAIAAACDCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
+                                "sourceData": "DAABCgABWC3uymYuyHYKAAIAAAAAAAAAAAAIAAIAAACHCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
                               }
                             }
                           }
                         }
                       },
                       {
-                        "entryId": "who-to-follow-1930620549021564933-user-2905223308",
+                        "entryId": "who-to-follow-1934644393893953541-user-959867404959363073",
                         "item": {
                           "itemContent": {
                             "itemType": "TimelineUser",
@@ -4086,8 +3558,8 @@
                             "user_results": {
                               "result": {
                                 "__typename": "User",
-                                "id": "VXNlcjoyOTA1MjIzMzA4",
-                                "rest_id": "2905223308",
+                                "id": "VXNlcjo5NTk4Njc0MDQ5NTkzNjMwNzM=",
+                                "rest_id": "959867404959363073",
                                 "affiliates_highlighted_label": {},
                                 "has_graduated_access": true,
                                 "is_blue_verified": false,
@@ -4095,30 +3567,88 @@
                                 "legacy": {
                                   "can_dm": true,
                                   "can_media_tag": false,
-                                  "created_at": "Thu Dec 04 15:29:00 +0000 2014",
-                                  "default_profile": false,
+                                  "created_at": "Sat Feb 03 19:13:17 +0000 2018",
+                                  "default_profile": true,
                                   "default_profile_image": false,
-                                  "description": "250k on @YouTube {https://t.co/5uqCmnIOnm}",
+                                  "description": "@kwanguns \u2022 @olpana_\u2022@capsr6\ud83d\udc51 \u2022@vultixxx\u2022 @rchikcan\u2022@chorskee\u2022 @itqcr6\u2022",
                                   "entities": {
                                     "description": {
-                                      "urls": [
-                                        {
-                                          "display_url": "twitch.Tv/Robbie",
-                                          "expanded_url": "http://twitch.Tv/Robbie",
-                                          "url": "https://t.co/5uqCmnIOnm",
-                                          "indices": [
-                                            18,
-                                            41
-                                          ]
-                                        }
-                                      ]
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 712,
+                                  "followers_count": 2167,
+                                  "friends_count": 178,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 1,
+                                  "location": "Los Angeles, CA",
+                                  "media_count": 177,
+                                  "name": "Xekzie",
+                                  "normal_followers_count": 2167,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/959867404959363073/1655007152",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1911251490292817920/KVG2s4UM_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "Xekzie",
+                                  "statuses_count": 1096,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "tipjar_settings": {}
+                              }
+                            },
+                            "userDisplayType": "User"
+                          },
+                          "clientEventInfo": {
+                            "component": "suggest_who_to_follow",
+                            "element": "user",
+                            "details": {
+                              "timelinesDetails": {
+                                "injectionType": "WhoToFollow",
+                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
+                                "sourceData": "DAABCgABWC3uymYuyHYKAAIAAAAAAAAAAAAIAAIAAACHCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "entryId": "who-to-follow-1934644393893953541-user-1343796086885015554",
+                        "item": {
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "__typename": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMzQzNzk2MDg2ODg1MDE1NTU0",
+                                "rest_id": "1343796086885015554",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": true,
+                                  "created_at": "Tue Dec 29 05:49:15 +0000 2020",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "@Twitch Partner / Entrepreneur YouTube - E2Smooth business inquiry - evan2smooth@gmail.com",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
                                     },
                                     "url": {
                                       "urls": [
                                         {
-                                          "display_url": "youtube.com/@RevoltRobbie",
-                                          "expanded_url": "https://youtube.com/@RevoltRobbie",
-                                          "url": "https://t.co/dyOK4JZvcs",
+                                          "display_url": "twitch.tv/e2smooth",
+                                          "expanded_url": "https://www.twitch.tv/e2smooth",
+                                          "url": "https://t.co/L4lF4ynEyf",
                                           "indices": [
                                             0,
                                             23
@@ -4128,44 +3658,38 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 79374,
-                                  "followers_count": 31765,
-                                  "friends_count": 1000,
-                                  "has_custom_timelines": true,
+                                  "favourites_count": 3683,
+                                  "followers_count": 5374,
+                                  "friends_count": 1005,
+                                  "has_custom_timelines": false,
                                   "is_translator": false,
-                                  "listed_count": 15,
-                                  "location": "",
-                                  "media_count": 10324,
-                                  "name": "Robbie",
-                                  "normal_followers_count": 31765,
+                                  "listed_count": 4,
+                                  "location": "The Dark ",
+                                  "media_count": 768,
+                                  "name": "E2Smooth",
+                                  "normal_followers_count": 5374,
                                   "pinned_tweet_ids_str": [
-                                    "1282375174994776068"
+                                    "1604703338624389123"
                                   ],
                                   "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2905223308/1708541146",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1830064577372987392/Nu-v1vqt_normal.jpg",
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343796086885015554/1733528885",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1887967400433192960/W3lLyK_u_normal.jpg",
                                   "profile_interstitial_type": "",
-                                  "screen_name": "Revolt_Robbie",
-                                  "statuses_count": 66075,
+                                  "screen_name": "E2SmoothR6",
+                                  "statuses_count": 7653,
                                   "translator_type": "none",
-                                  "url": "https://t.co/dyOK4JZvcs",
+                                  "url": "https://t.co/L4lF4ynEyf",
                                   "verified": false,
                                   "want_retweets": false,
                                   "withheld_in_countries": []
                                 },
                                 "professional": {
-                                  "rest_id": "1485381901217157121",
+                                  "rest_id": "1488023464170639360",
                                   "professional_type": "Creator",
-                                  "category": [
-                                    {
-                                      "id": 934,
-                                      "name": "Social Media Influencer",
-                                      "icon_name": ""
-                                    }
-                                  ]
+                                  "category": []
                                 },
                                 "tipjar_settings": {
-                                  "is_enabled": false
+                                  "is_enabled": true
                                 }
                               }
                             },
@@ -4178,7 +3702,480 @@
                               "timelinesDetails": {
                                 "injectionType": "WhoToFollow",
                                 "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
-                                "sourceData": "DAABCgABHa5Vt0lBsyAKAAIAAAAAAAAAAAAIAAIAAACDCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
+                                "sourceData": "DAABCgABWC3uymYuyHYKAAIAAAAAAAAAAAAIAAIAAACICAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "entryId": "who-to-follow-1934644393893953541-user-1271254617708466176",
+                        "item": {
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "__typename": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMjcxMjU0NjE3NzA4NDY2MTc2",
+                                "rest_id": "1271254617708466176",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": true,
+                                  "created_at": "Fri Jun 12 01:35:04 +0000 2020",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "r6 for @QoRGaming",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "twitch.tv/kason",
+                                          "expanded_url": "http://twitch.tv/kason",
+                                          "url": "https://t.co/gwOdIkfENi",
+                                          "indices": [
+                                            0,
+                                            23
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 15821,
+                                  "followers_count": 13418,
+                                  "friends_count": 308,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 2,
+                                  "location": " \u2018mikey \u2018fig 'rush \u2018skitt",
+                                  "media_count": 901,
+                                  "name": "kason",
+                                  "normal_followers_count": 13418,
+                                  "pinned_tweet_ids_str": [
+                                    "1560797470011150336"
+                                  ],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271254617708466176/1739879082",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1930718065584435200/50oc2Upz_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "KasonOnTwitch",
+                                  "statuses_count": 23983,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/gwOdIkfENi",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "tipjar_settings": {}
+                              }
+                            },
+                            "userDisplayType": "User"
+                          },
+                          "clientEventInfo": {
+                            "component": "suggest_who_to_follow",
+                            "element": "user",
+                            "details": {
+                              "timelinesDetails": {
+                                "injectionType": "WhoToFollow",
+                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
+                                "sourceData": "DAABCgABWC3uymYuyHYKAAIAAAAAAAAAAAAIAAIAAACHCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "entryId": "who-to-follow-1934644393893953541-user-2812439101",
+                        "item": {
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "__typename": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoyODEyNDM5MTAx",
+                                "rest_id": "2812439101",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": true,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": true,
+                                  "created_at": "Tue Sep 16 04:04:02 +0000 2014",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "writing",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "open.spotify.com/album/2qAphOXz\u2026",
+                                          "expanded_url": "https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP?si=g5RmtsQ7TRu1ewlc-x4_NQ",
+                                          "url": "https://t.co/6A4qzBSnV9",
+                                          "indices": [
+                                            0,
+                                            23
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 20525,
+                                  "followers_count": 416297,
+                                  "friends_count": 1180,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 188,
+                                  "location": "",
+                                  "media_count": 3723,
+                                  "name": "Yumi",
+                                  "normal_followers_count": 416297,
+                                  "pinned_tweet_ids_str": [
+                                    "1679928752300490752"
+                                  ],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2812439101/1664693985",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1724510521431404544/PH_3bwXS_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "YumiMain",
+                                  "statuses_count": 14278,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/6A4qzBSnV9",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1679677385422020608",
+                                  "professional_type": "Creator",
+                                  "category": []
+                                },
+                                "tipjar_settings": {},
+                                "super_follow_eligible": true
+                              }
+                            },
+                            "userDisplayType": "User"
+                          },
+                          "clientEventInfo": {
+                            "component": "suggest_who_to_follow",
+                            "element": "user",
+                            "details": {
+                              "timelinesDetails": {
+                                "injectionType": "WhoToFollow",
+                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
+                                "sourceData": "DAABCgABWC3uymYuyHYKAAIAAAAAAAAAAAAIAAIAAACICAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "entryId": "who-to-follow-1934644393893953541-user-1345652862701993985",
+                        "item": {
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "__typename": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMzQ1NjUyODYyNzAxOTkzOTg1",
+                                "rest_id": "1345652862701993985",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": true,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": true,
+                                  "created_at": "Sun Jan 03 08:47:12 +0000 2021",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Veteran Rainbow Six Siege Athelete. Twitch Partner",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "youtube.com/trumanr6",
+                                          "expanded_url": "http://youtube.com/trumanr6",
+                                          "url": "https://t.co/m0rtqI1WUc",
+                                          "indices": [
+                                            0,
+                                            23
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 9767,
+                                  "followers_count": 8349,
+                                  "friends_count": 465,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 2,
+                                  "location": "USA",
+                                  "media_count": 40,
+                                  "name": "Truman",
+                                  "normal_followers_count": 8349,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345652862701993985/1739008810",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1485731295552548873/ZnwM3TLN_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "trum8n",
+                                  "statuses_count": 1860,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/m0rtqI1WUc",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "tipjar_settings": {}
+                              }
+                            },
+                            "userDisplayType": "User"
+                          },
+                          "clientEventInfo": {
+                            "component": "suggest_who_to_follow",
+                            "element": "user",
+                            "details": {
+                              "timelinesDetails": {
+                                "injectionType": "WhoToFollow",
+                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
+                                "sourceData": "DAABCgABWC3uymYuyHYKAAIAAAAAAAAAAAAIAAIAAACHCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "entryId": "who-to-follow-1934644393893953541-user-866174608281550848",
+                        "item": {
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "__typename": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjo4NjYxNzQ2MDgyODE1NTA4NDg=",
+                                "rest_id": "866174608281550848",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": true,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": true,
+                                  "created_at": "Sun May 21 06:11:34 +0000 2017",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "The Oldest Champ in @Rainbow6Game \ud83d\udd25 | https://t.co/WWye3JUooy | https://t.co/ZtbNAIDgUs | https://t.co/qVX18whenK | Inquiries: DM ME",
+                                  "entities": {
+                                    "description": {
+                                      "urls": [
+                                        {
+                                          "display_url": "youtube.com/senvale",
+                                          "expanded_url": "http://youtube.com/senvale",
+                                          "url": "https://t.co/WWye3JUooy",
+                                          "indices": [
+                                            38,
+                                            61
+                                          ]
+                                        },
+                                        {
+                                          "display_url": "tiktok.com/@senvale",
+                                          "expanded_url": "http://tiktok.com/@senvale",
+                                          "url": "https://t.co/ZtbNAIDgUs",
+                                          "indices": [
+                                            64,
+                                            87
+                                          ]
+                                        },
+                                        {
+                                          "display_url": "instagram.com/senvaler6",
+                                          "expanded_url": "https://www.instagram.com/senvaler6",
+                                          "url": "https://t.co/qVX18whenK",
+                                          "indices": [
+                                            90,
+                                            113
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "twitch.tv/senvale",
+                                          "expanded_url": "https://www.twitch.tv/senvale",
+                                          "url": "https://t.co/U3jagPZVzR",
+                                          "indices": [
+                                            0,
+                                            23
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 29074,
+                                  "followers_count": 17359,
+                                  "friends_count": 671,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 11,
+                                  "location": "",
+                                  "media_count": 5257,
+                                  "name": "SenVale \ud83d\udd25",
+                                  "normal_followers_count": 17359,
+                                  "pinned_tweet_ids_str": [
+                                    "1900384721307394170"
+                                  ],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/866174608281550848/1670087721",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1895366934612373504/CDXUjtJi_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "SenValeTV",
+                                  "statuses_count": 19676,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/U3jagPZVzR",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1820593057823400422",
+                                  "professional_type": "Creator",
+                                  "category": [
+                                    {
+                                      "id": 1042,
+                                      "name": "Content Creator",
+                                      "icon_name": ""
+                                    }
+                                  ]
+                                },
+                                "tipjar_settings": {},
+                                "super_follow_eligible": true
+                              }
+                            },
+                            "userDisplayType": "User"
+                          },
+                          "clientEventInfo": {
+                            "component": "suggest_who_to_follow",
+                            "element": "user",
+                            "details": {
+                              "timelinesDetails": {
+                                "injectionType": "WhoToFollow",
+                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
+                                "sourceData": "DAABCgABWC3uymYuyHYKAAIAAAAAAAAAAAAIAAIAAACHCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "entryId": "who-to-follow-1934644393893953541-user-1264932824009846789",
+                        "item": {
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "__typename": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMjY0OTMyODI0MDA5ODQ2Nzg5",
+                                "rest_id": "1264932824009846789",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Mon May 25 14:54:34 +0000 2020",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "day 1 @SnakeOsaurus @oskarifps | @oniaimers | @twitch partner https://t.co/lqyzpI9Tup | ex @rainbow6game | ranked cyber athlete",
+                                  "entities": {
+                                    "description": {
+                                      "urls": [
+                                        {
+                                          "display_url": "twitch.tv/plerto",
+                                          "expanded_url": "http://twitch.tv/plerto",
+                                          "url": "https://t.co/lqyzpI9Tup",
+                                          "indices": [
+                                            62,
+                                            85
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "linktr.ee/Plerto",
+                                          "expanded_url": "https://linktr.ee/Plerto",
+                                          "url": "https://t.co/rYHd57TjiJ",
+                                          "indices": [
+                                            0,
+                                            23
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 67431,
+                                  "followers_count": 9059,
+                                  "friends_count": 1583,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 7,
+                                  "location": "Twitch.Tv/Plerto ",
+                                  "media_count": 362,
+                                  "name": "Plerto",
+                                  "normal_followers_count": 9059,
+                                  "pinned_tweet_ids_str": [
+                                    "1917699491722940610"
+                                  ],
+                                  "possibly_sensitive": false,
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1740113899846840320/kzEq3_nK_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "Plerto_",
+                                  "statuses_count": 4396,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/rYHd57TjiJ",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "tipjar_settings": {}
+                              }
+                            },
+                            "userDisplayType": "User"
+                          },
+                          "clientEventInfo": {
+                            "component": "suggest_who_to_follow",
+                            "element": "user",
+                            "details": {
+                              "timelinesDetails": {
+                                "injectionType": "WhoToFollow",
+                                "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
+                                "sourceData": "DAABCgABWC3uymYuyHYKAAIAAAAAAAAAAAAIAAIAAACHCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
                               }
                             }
                           }
@@ -4205,7 +4202,7 @@
                         "timelinesDetails": {
                           "injectionType": "WhoToFollow",
                           "controllerData": "DAACDAACDAABCgABAAAAAAAAAAgAAAAA",
-                          "sourceData": "DAABCgABHa5Vt0lBsyAKAAIAAAAAAAAAAAAIAAIAAACDCAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
+                          "sourceData": "DAABCgABWC3uymYuyHYKAAIAAAAAAAAAAAAIAAIAAACICAADAAAAAgwABQwAAgwAAgwAAQoAAQAAAAAAAAAIAAAAAAA="
                         }
                       }
                     }
@@ -4213,7 +4210,7 @@
                 },
                 {
                   "entryId": "tweet-1923139556250943775",
-                  "sortIndex": "1930620549021564922",
+                  "sortIndex": "1934644393893953530",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -4260,16 +4257,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -4623,7 +4620,7 @@
                             "possibly_sensitive_editable": true,
                             "quote_count": 0,
                             "reply_count": 0,
-                            "retweet_count": 85,
+                            "retweet_count": 86,
                             "retweeted": false,
                             "user_id_str": "1165011598672650240",
                             "id_str": "1923139556250943775",
@@ -4660,47 +4657,33 @@
                                         "created_at": "Tue Jan 30 11:22:43 +0000 2024",
                                         "default_profile": true,
                                         "default_profile_image": false,
-                                        "description": "Kings World Cup Clubs | June 1st - June 14th. France",
+                                        "description": "Next stop \ud83d\udd1c Brazil \ud83c\udde7\ud83c\uddf7",
                                         "entities": {
                                           "description": {
                                             "urls": []
-                                          },
-                                          "url": {
-                                            "urls": [
-                                              {
-                                                "display_url": "ticketmaster.fr/fr/liste/kings\u2026",
-                                                "expanded_url": "https://www.ticketmaster.fr/fr/liste/kings-world-cup-clubs-final-billet/idlist/5133/codtypadh/FTT/nu",
-                                                "url": "https://t.co/LOygYaQ75s",
-                                                "indices": [
-                                                  0,
-                                                  23
-                                                ]
-                                              }
-                                            ]
                                           }
                                         },
                                         "fast_followers_count": 0,
-                                        "favourites_count": 80,
-                                        "followers_count": 87355,
+                                        "favourites_count": 84,
+                                        "followers_count": 88892,
                                         "friends_count": 42,
                                         "has_custom_timelines": false,
                                         "is_translator": false,
-                                        "listed_count": 72,
+                                        "listed_count": 70,
                                         "location": "",
-                                        "media_count": 1422,
+                                        "media_count": 1756,
                                         "name": "Kings League World",
-                                        "normal_followers_count": 87355,
+                                        "normal_followers_count": 88892,
                                         "pinned_tweet_ids_str": [
-                                          "1930552352093745338"
+                                          "1933979728983294289"
                                         ],
                                         "possibly_sensitive": false,
-                                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752291002201600000/1741875144",
+                                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752291002201600000/1750067401",
                                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1760601595748716544/TmcpYlkF_normal.png",
                                         "profile_interstitial_type": "",
                                         "screen_name": "_KingsWorld",
-                                        "statuses_count": 1718,
+                                        "statuses_count": 2100,
                                         "translator_type": "none",
-                                        "url": "https://t.co/LOygYaQ75s",
                                         "verified": false,
                                         "want_retweets": false,
                                         "withheld_in_countries": []
@@ -4720,7 +4703,7 @@
                                 },
                                 "is_translatable": false,
                                 "views": {
-                                  "count": "499007",
+                                  "count": "506492",
                                   "state": "EnabledWithCount"
                                 },
                                 "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -5012,7 +4995,7 @@
                                       }
                                     ]
                                   },
-                                  "favorite_count": 2904,
+                                  "favorite_count": 2918,
                                   "favorited": false,
                                   "full_text": ".@jynxzi IS IN DA\u2019HOUSE \ud83d\udd25\n\n#KingsWorldCupClubs https://t.co/cpUClPhoCX",
                                   "is_quote_status": false,
@@ -5020,8 +5003,8 @@
                                   "possibly_sensitive": false,
                                   "possibly_sensitive_editable": true,
                                   "quote_count": 35,
-                                  "reply_count": 55,
-                                  "retweet_count": 85,
+                                  "reply_count": 56,
+                                  "retweet_count": 86,
                                   "retweeted": false,
                                   "user_id_str": "1752291002201600000",
                                   "id_str": "1923097299430862890"
@@ -5042,7 +5025,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -5050,7 +5033,7 @@
                 },
                 {
                   "entryId": "tweet-1917272585554874386",
-                  "sortIndex": "1930620549021564921",
+                  "sortIndex": "1934644393893953529",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -5097,16 +5080,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -5146,12 +5129,12 @@
                           },
                           "is_translatable": false,
                           "views": {
-                            "count": "566433",
+                            "count": "573305",
                             "state": "EnabledWithCount"
                           },
                           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
                           "legacy": {
-                            "bookmark_count": 252,
+                            "bookmark_count": 250,
                             "bookmarked": false,
                             "created_at": "Tue Apr 29 17:39:40 +0000 2025",
                             "conversation_id_str": "1917272585554874386",
@@ -5468,7 +5451,7 @@
                                 }
                               ]
                             },
-                            "favorite_count": 8818,
+                            "favorite_count": 8832,
                             "favorited": false,
                             "full_text": "WE'RE BACK https://t.co/fOLIZ7T9zX",
                             "is_quote_status": false,
@@ -5495,7 +5478,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -5503,7 +5486,7 @@
                 },
                 {
                   "entryId": "tweet-1915485294746325196",
-                  "sortIndex": "1930620549021564920",
+                  "sortIndex": "1934644393893953528",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -5550,16 +5533,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -5599,12 +5582,12 @@
                           },
                           "is_translatable": false,
                           "views": {
-                            "count": "681085",
+                            "count": "685485",
                             "state": "EnabledWithCount"
                           },
                           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
                           "legacy": {
-                            "bookmark_count": 735,
+                            "bookmark_count": 731,
                             "bookmarked": false,
                             "created_at": "Thu Apr 24 19:17:36 +0000 2025",
                             "conversation_id_str": "1915485294746325196",
@@ -5921,7 +5904,7 @@
                                 }
                               ]
                             },
-                            "favorite_count": 18345,
+                            "favorite_count": 18312,
                             "favorited": false,
                             "full_text": "Lock In https://t.co/QwlONem2gn",
                             "is_quote_status": false,
@@ -5948,7 +5931,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -5956,7 +5939,7 @@
                 },
                 {
                   "entryId": "tweet-1898537464609816819",
-                  "sortIndex": "1930620549021564919",
+                  "sortIndex": "1934644393893953527",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -6003,16 +5986,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -6052,12 +6035,12 @@
                           },
                           "is_translatable": false,
                           "views": {
-                            "count": "574909",
+                            "count": "578902",
                             "state": "EnabledWithCount"
                           },
                           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
                           "legacy": {
-                            "bookmark_count": 307,
+                            "bookmark_count": 306,
                             "bookmarked": false,
                             "created_at": "Sun Mar 09 00:52:59 +0000 2025",
                             "conversation_id_str": "1898537464609816819",
@@ -6422,7 +6405,7 @@
                                 }
                               ]
                             },
-                            "favorite_count": 37230,
+                            "favorite_count": 37197,
                             "favorited": false,
                             "full_text": "Best Day Ever\u2764\ufe0f https://t.co/1bCKSVIgbT",
                             "is_quote_status": false,
@@ -6430,8 +6413,8 @@
                             "possibly_sensitive": false,
                             "possibly_sensitive_editable": true,
                             "quote_count": 5,
-                            "reply_count": 146,
-                            "retweet_count": 553,
+                            "reply_count": 145,
+                            "retweet_count": 552,
                             "retweeted": false,
                             "user_id_str": "1165011598672650240",
                             "id_str": "1898537464609816819"
@@ -6449,7 +6432,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -6457,7 +6440,7 @@
                 },
                 {
                   "entryId": "tweet-1895185058820170044",
-                  "sortIndex": "1930620549021564918",
+                  "sortIndex": "1934644393893953526",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -6504,16 +6487,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -6621,8 +6604,8 @@
                                               }
                                             },
                                             "fast_followers_count": 0,
-                                            "favourites_count": 4056,
-                                            "followers_count": 2351424,
+                                            "favourites_count": 4055,
+                                            "followers_count": 2349460,
                                             "friends_count": 15,
                                             "has_custom_timelines": false,
                                             "is_translator": false,
@@ -6630,7 +6613,7 @@
                                             "location": "London, England",
                                             "media_count": 3380,
                                             "name": "Sidemen",
-                                            "normal_followers_count": 2351424,
+                                            "normal_followers_count": 2349460,
                                             "pinned_tweet_ids_str": [
                                               "1925206420552556886"
                                             ],
@@ -6810,8 +6793,8 @@
                                               }
                                             },
                                             "fast_followers_count": 0,
-                                            "favourites_count": 4056,
-                                            "followers_count": 2351424,
+                                            "favourites_count": 4055,
+                                            "followers_count": 2349460,
                                             "friends_count": 15,
                                             "has_custom_timelines": false,
                                             "is_translator": false,
@@ -6819,7 +6802,7 @@
                                             "location": "London, England",
                                             "media_count": 3380,
                                             "name": "Sidemen",
-                                            "normal_followers_count": 2351424,
+                                            "normal_followers_count": 2349460,
                                             "pinned_tweet_ids_str": [
                                               "1925206420552556886"
                                             ],
@@ -6975,8 +6958,8 @@
                                           }
                                         },
                                         "fast_followers_count": 0,
-                                        "favourites_count": 4056,
-                                        "followers_count": 2351424,
+                                        "favourites_count": 4055,
+                                        "followers_count": 2349460,
                                         "friends_count": 15,
                                         "has_custom_timelines": false,
                                         "is_translator": false,
@@ -6984,7 +6967,7 @@
                                         "location": "London, England",
                                         "media_count": 3380,
                                         "name": "Sidemen",
-                                        "normal_followers_count": 2351424,
+                                        "normal_followers_count": 2349460,
                                         "pinned_tweet_ids_str": [
                                           "1925206420552556886"
                                         ],
@@ -7026,12 +7009,12 @@
                                 },
                                 "is_translatable": false,
                                 "views": {
-                                  "count": "853986",
+                                  "count": "856563",
                                   "state": "EnabledWithCount"
                                 },
                                 "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
                                 "legacy": {
-                                  "bookmark_count": 779,
+                                  "bookmark_count": 774,
                                   "bookmarked": false,
                                   "created_at": "Thu Feb 27 15:58:32 +0000 2025",
                                   "conversation_id_str": "1895141474272006638",
@@ -7230,7 +7213,7 @@
                                       }
                                     ]
                                   },
-                                  "favorite_count": 19697,
+                                  "favorite_count": 19670,
                                   "favorited": false,
                                   "full_text": "Safe to say you\u2019re gassed? @jynxzi https://t.co/pXsaf0BG4U",
                                   "is_quote_status": false,
@@ -7260,7 +7243,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -7268,7 +7251,7 @@
                 },
                 {
                   "entryId": "tweet-1891908172215926945",
-                  "sortIndex": "1930620549021564917",
+                  "sortIndex": "1934644393893953525",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -7315,16 +7298,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -7401,7 +7384,7 @@
                             "lang": "en",
                             "quote_count": 0,
                             "reply_count": 0,
-                            "retweet_count": 1993,
+                            "retweet_count": 1990,
                             "retweeted": false,
                             "user_id_str": "1165011598672650240",
                             "id_str": "1891908172215926945",
@@ -7468,25 +7451,25 @@
                                           }
                                         },
                                         "fast_followers_count": 0,
-                                        "favourites_count": 6954,
-                                        "followers_count": 2525494,
-                                        "friends_count": 376,
+                                        "favourites_count": 6956,
+                                        "followers_count": 2530622,
+                                        "friends_count": 377,
                                         "has_custom_timelines": true,
                                         "is_translator": false,
                                         "listed_count": 2069,
                                         "location": "Hereford Base",
-                                        "media_count": 5732,
-                                        "name": "Rainbow Six Siege",
-                                        "normal_followers_count": 2525494,
+                                        "media_count": 5761,
+                                        "name": "Rainbow Six Siege X",
+                                        "normal_followers_count": 2530622,
                                         "pinned_tweet_ids_str": [
-                                          "1924175745510752687"
+                                          "1932470347967627748"
                                         ],
                                         "possibly_sensitive": false,
-                                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/399404516/1746468071",
+                                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/399404516/1749831959",
                                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1897010159571910656/Wg9p2hVm_normal.jpg",
                                         "profile_interstitial_type": "",
                                         "screen_name": "Rainbow6Game",
-                                        "statuses_count": 48903,
+                                        "statuses_count": 48944,
                                         "translator_type": "none",
                                         "url": "https://t.co/78EgmnKlxL",
                                         "verified": false,
@@ -7509,12 +7492,12 @@
                                 },
                                 "is_translatable": false,
                                 "views": {
-                                  "count": "4096519",
+                                  "count": "4101353",
                                   "state": "EnabledWithCount"
                                 },
                                 "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
                                 "legacy": {
-                                  "bookmark_count": 1005,
+                                  "bookmark_count": 998,
                                   "bookmarked": false,
                                   "created_at": "Sun Feb 16 19:32:16 +0000 2025",
                                   "conversation_id_str": "1891208997459365896",
@@ -7703,7 +7686,7 @@
                                       }
                                     ]
                                   },
-                                  "favorite_count": 14005,
+                                  "favorite_count": 13990,
                                   "favorited": false,
                                   "full_text": "A major evolution is coming.\n \n\ud83d\udccd Watch the R6 Siege X Showcase live - March 13th.\n \n\ud83d\udcfa Live Stream \ud83c\udf9f\ufe0f Attend in Atlanta https://t.co/tjfENveHKd",
                                   "is_quote_status": false,
@@ -7711,8 +7694,8 @@
                                   "possibly_sensitive": false,
                                   "possibly_sensitive_editable": true,
                                   "quote_count": 913,
-                                  "reply_count": 565,
-                                  "retweet_count": 1993,
+                                  "reply_count": 562,
+                                  "retweet_count": 1990,
                                   "retweeted": false,
                                   "user_id_str": "399404516",
                                   "id_str": "1891208997459365896"
@@ -7733,7 +7716,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -7741,7 +7724,7 @@
                 },
                 {
                   "entryId": "tweet-1891572757164404747",
-                  "sortIndex": "1930620549021564916",
+                  "sortIndex": "1934644393893953524",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -7788,16 +7771,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -7837,7 +7820,7 @@
                           },
                           "is_translatable": false,
                           "views": {
-                            "count": "491151",
+                            "count": "493875",
                             "state": "EnabledWithCount"
                           },
                           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -8121,7 +8104,7 @@
                                 }
                               ]
                             },
-                            "favorite_count": 9308,
+                            "favorite_count": 9303,
                             "favorited": false,
                             "full_text": "Thank you @Rainbow6Game for this award\n\nThis game literally changed my life \n\nI have no idea where I would be without it\n\n&amp; of course, thank you to my community\n\nI love you guys so much \u2764\ufe0f https://t.co/RlocqT99KT",
                             "is_quote_status": false,
@@ -8129,8 +8112,8 @@
                             "possibly_sensitive": false,
                             "possibly_sensitive_editable": true,
                             "quote_count": 14,
-                            "reply_count": 167,
-                            "retweet_count": 284,
+                            "reply_count": 166,
+                            "retweet_count": 282,
                             "retweeted": false,
                             "user_id_str": "1165011598672650240",
                             "id_str": "1891572757164404747"
@@ -8148,7 +8131,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -8156,7 +8139,7 @@
                 },
                 {
                   "entryId": "tweet-1888313413303996607",
-                  "sortIndex": "1930620549021564915",
+                  "sortIndex": "1934644393893953523",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -8203,16 +8186,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -8251,7 +8234,7 @@
                                     "image_value": {
                                       "height": 144,
                                       "width": 144,
-                                      "url": "https://pbs.twimg.com/card_img/1930428122362421248/1__YL4-W?format=png&name=144x144_2"
+                                      "url": "https://pbs.twimg.com/card_img/1932450954538037248/rgUxgCHm?format=png&name=144x144_2"
                                     },
                                     "type": "IMAGE"
                                   }
@@ -8259,7 +8242,7 @@
                                 {
                                   "key": "description",
                                   "value": {
-                                    "string_value": "[155/365] \ud83d\udfe8 HITTING ULTIMATE CHAMPION \ud83d\udfe8",
+                                    "string_value": "BUSINESS EMAIL: jynxzi@rightclick.gg",
                                     "type": "STRING"
                                   }
                                 },
@@ -8283,7 +8266,7 @@
                                     "image_value": {
                                       "height": 300,
                                       "width": 300,
-                                      "url": "https://pbs.twimg.com/card_img/1930428122362421248/1__YL4-W?format=png&name=420x420_2"
+                                      "url": "https://pbs.twimg.com/card_img/1932450954538037248/rgUxgCHm?format=png&name=420x420_2"
                                     },
                                     "type": "IMAGE"
                                   }
@@ -8294,7 +8277,7 @@
                                     "image_value": {
                                       "height": 300,
                                       "width": 300,
-                                      "url": "https://pbs.twimg.com/card_img/1930428122362421248/1__YL4-W?format=png&name=orig"
+                                      "url": "https://pbs.twimg.com/card_img/1932450954538037248/rgUxgCHm?format=png&name=orig"
                                     },
                                     "type": "IMAGE"
                                   }
@@ -8316,7 +8299,7 @@
                                     "image_value": {
                                       "height": 100,
                                       "width": 100,
-                                      "url": "https://pbs.twimg.com/card_img/1930428122362421248/1__YL4-W?format=png&name=100x100_2"
+                                      "url": "https://pbs.twimg.com/card_img/1932450954538037248/rgUxgCHm?format=png&name=100x100_2"
                                     },
                                     "type": "IMAGE"
                                   }
@@ -8334,7 +8317,7 @@
                                     "image_value": {
                                       "height": 300,
                                       "width": 300,
-                                      "url": "https://pbs.twimg.com/card_img/1930428122362421248/1__YL4-W?format=png&name=2048x2048_2_exp"
+                                      "url": "https://pbs.twimg.com/card_img/1932450954538037248/rgUxgCHm?format=png&name=2048x2048_2_exp"
                                     },
                                     "type": "IMAGE"
                                   }
@@ -8468,16 +8451,16 @@
                                         }
                                       },
                                       "fast_followers_count": 0,
-                                      "favourites_count": 12710,
-                                      "followers_count": 9982100,
-                                      "friends_count": 1121,
+                                      "favourites_count": 12743,
+                                      "followers_count": 10005959,
+                                      "friends_count": 1122,
                                       "has_custom_timelines": true,
                                       "is_translator": false,
-                                      "listed_count": 9481,
+                                      "listed_count": 9487,
                                       "location": "San Francisco, CA",
-                                      "media_count": 11352,
+                                      "media_count": 11365,
                                       "name": "Twitch",
-                                      "normal_followers_count": 9982100,
+                                      "normal_followers_count": 10005959,
                                       "pinned_tweet_ids_str": [
                                         "1928735315360981076"
                                       ],
@@ -8486,7 +8469,7 @@
                                       "profile_image_url_https": "https://pbs.twimg.com/profile_images/1903140828152823808/FAufQwqc_normal.jpg",
                                       "profile_interstitial_type": "",
                                       "screen_name": "Twitch",
-                                      "statuses_count": 27449,
+                                      "statuses_count": 27483,
                                       "translator_type": "none",
                                       "url": "https://t.co/3EAJIyt2aO",
                                       "verified": false,
@@ -8522,7 +8505,7 @@
                           },
                           "is_translatable": false,
                           "views": {
-                            "count": "193632",
+                            "count": "196141",
                             "state": "EnabledWithCount"
                           },
                           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -8570,7 +8553,7 @@
                                 }
                               ]
                             },
-                            "favorite_count": 231,
+                            "favorite_count": 232,
                             "favorited": false,
                             "full_text": "Super Bowl Stream Right Now!\n@Madden25 #ad\n\nhttps://t.co/tHUdr4ZN4x",
                             "is_quote_status": false,
@@ -8597,7 +8580,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -8605,7 +8588,7 @@
                 },
                 {
                   "entryId": "tweet-1877223514454823268",
-                  "sortIndex": "1930620549021564914",
+                  "sortIndex": "1934644393893953522",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -8652,16 +8635,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -8749,7 +8732,7 @@
                                             "created_at": "Tue Aug 18 22:11:16 +0000 2015",
                                             "default_profile": false,
                                             "default_profile_image": false,
-                                            "description": "\ud83d\udee0\ufe0fGame Producer on @Roblox\n\ud83c\udfaeCEO @TurningTablesSD\n\ud83d\udc55Co-Founder @Lootbloc\n\ud83d\udcf8Photographer\n\u2b50Star Code \"EB1\"\n\nBusiness Email: evan@turningtables.games",
+                                            "description": "\ud83d\udee0\ufe0fGame Producer on @Roblox\n\ud83c\udfaeCEO @TurningTablesSD\n\ud83d\udc55Co-Founder @Lootbloc\n\ud83d\udcf8Photographer\n\u2b50Star Code: EB1\n\nBusiness Email: evan@turningtables.games",
                                             "entities": {
                                               "description": {
                                                 "urls": []
@@ -8769,23 +8752,25 @@
                                               }
                                             },
                                             "fast_followers_count": 0,
-                                            "favourites_count": 119106,
-                                            "followers_count": 51950,
-                                            "friends_count": 1303,
+                                            "favourites_count": 119528,
+                                            "followers_count": 52136,
+                                            "friends_count": 1322,
                                             "has_custom_timelines": true,
                                             "is_translator": false,
                                             "listed_count": 71,
-                                            "location": "Nashville, TN",
-                                            "media_count": 5216,
+                                            "location": "Tennessee",
+                                            "media_count": 5237,
                                             "name": "Evanbear1",
-                                            "normal_followers_count": 51950,
-                                            "pinned_tweet_ids_str": [],
+                                            "normal_followers_count": 52136,
+                                            "pinned_tweet_ids_str": [
+                                              "1933615356188447173"
+                                            ],
                                             "possibly_sensitive": false,
                                             "profile_banner_url": "https://pbs.twimg.com/profile_banners/3430592104/1677169535",
                                             "profile_image_url_https": "https://pbs.twimg.com/profile_images/1679140869033586696/XW4lOXrW_normal.jpg",
                                             "profile_interstitial_type": "",
                                             "screen_name": "EvanZir",
-                                            "statuses_count": 28354,
+                                            "statuses_count": 28450,
                                             "translator_type": "none",
                                             "url": "https://t.co/WSF524TD31",
                                             "verified": false,
@@ -8935,7 +8920,7 @@
                                             "created_at": "Tue Aug 18 22:11:16 +0000 2015",
                                             "default_profile": false,
                                             "default_profile_image": false,
-                                            "description": "\ud83d\udee0\ufe0fGame Producer on @Roblox\n\ud83c\udfaeCEO @TurningTablesSD\n\ud83d\udc55Co-Founder @Lootbloc\n\ud83d\udcf8Photographer\n\u2b50Star Code \"EB1\"\n\nBusiness Email: evan@turningtables.games",
+                                            "description": "\ud83d\udee0\ufe0fGame Producer on @Roblox\n\ud83c\udfaeCEO @TurningTablesSD\n\ud83d\udc55Co-Founder @Lootbloc\n\ud83d\udcf8Photographer\n\u2b50Star Code: EB1\n\nBusiness Email: evan@turningtables.games",
                                             "entities": {
                                               "description": {
                                                 "urls": []
@@ -8955,23 +8940,25 @@
                                               }
                                             },
                                             "fast_followers_count": 0,
-                                            "favourites_count": 119106,
-                                            "followers_count": 51950,
-                                            "friends_count": 1303,
+                                            "favourites_count": 119528,
+                                            "followers_count": 52136,
+                                            "friends_count": 1322,
                                             "has_custom_timelines": true,
                                             "is_translator": false,
                                             "listed_count": 71,
-                                            "location": "Nashville, TN",
-                                            "media_count": 5216,
+                                            "location": "Tennessee",
+                                            "media_count": 5237,
                                             "name": "Evanbear1",
-                                            "normal_followers_count": 51950,
-                                            "pinned_tweet_ids_str": [],
+                                            "normal_followers_count": 52136,
+                                            "pinned_tweet_ids_str": [
+                                              "1933615356188447173"
+                                            ],
                                             "possibly_sensitive": false,
                                             "profile_banner_url": "https://pbs.twimg.com/profile_banners/3430592104/1677169535",
                                             "profile_image_url_https": "https://pbs.twimg.com/profile_images/1679140869033586696/XW4lOXrW_normal.jpg",
                                             "profile_interstitial_type": "",
                                             "screen_name": "EvanZir",
-                                            "statuses_count": 28354,
+                                            "statuses_count": 28450,
                                             "translator_type": "none",
                                             "url": "https://t.co/WSF524TD31",
                                             "verified": false,
@@ -9097,7 +9084,7 @@
                                         "created_at": "Tue Aug 18 22:11:16 +0000 2015",
                                         "default_profile": false,
                                         "default_profile_image": false,
-                                        "description": "\ud83d\udee0\ufe0fGame Producer on @Roblox\n\ud83c\udfaeCEO @TurningTablesSD\n\ud83d\udc55Co-Founder @Lootbloc\n\ud83d\udcf8Photographer\n\u2b50Star Code \"EB1\"\n\nBusiness Email: evan@turningtables.games",
+                                        "description": "\ud83d\udee0\ufe0fGame Producer on @Roblox\n\ud83c\udfaeCEO @TurningTablesSD\n\ud83d\udc55Co-Founder @Lootbloc\n\ud83d\udcf8Photographer\n\u2b50Star Code: EB1\n\nBusiness Email: evan@turningtables.games",
                                         "entities": {
                                           "description": {
                                             "urls": []
@@ -9117,23 +9104,25 @@
                                           }
                                         },
                                         "fast_followers_count": 0,
-                                        "favourites_count": 119106,
-                                        "followers_count": 51950,
-                                        "friends_count": 1303,
+                                        "favourites_count": 119528,
+                                        "followers_count": 52136,
+                                        "friends_count": 1322,
                                         "has_custom_timelines": true,
                                         "is_translator": false,
                                         "listed_count": 71,
-                                        "location": "Nashville, TN",
-                                        "media_count": 5216,
+                                        "location": "Tennessee",
+                                        "media_count": 5237,
                                         "name": "Evanbear1",
-                                        "normal_followers_count": 51950,
-                                        "pinned_tweet_ids_str": [],
+                                        "normal_followers_count": 52136,
+                                        "pinned_tweet_ids_str": [
+                                          "1933615356188447173"
+                                        ],
                                         "possibly_sensitive": false,
                                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/3430592104/1677169535",
                                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1679140869033586696/XW4lOXrW_normal.jpg",
                                         "profile_interstitial_type": "",
                                         "screen_name": "EvanZir",
-                                        "statuses_count": 28354,
+                                        "statuses_count": 28450,
                                         "translator_type": "none",
                                         "url": "https://t.co/WSF524TD31",
                                         "verified": false,
@@ -9167,12 +9156,12 @@
                                 },
                                 "is_translatable": false,
                                 "views": {
-                                  "count": "718051",
+                                  "count": "719446",
                                   "state": "EnabledWithCount"
                                 },
                                 "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
                                 "legacy": {
-                                  "bookmark_count": 1271,
+                                  "bookmark_count": 1269,
                                   "bookmarked": false,
                                   "created_at": "Thu Jan 09 04:53:18 +0000 2025",
                                   "conversation_id_str": "1877217058514944256",
@@ -9367,7 +9356,7 @@
                                       }
                                     ]
                                   },
-                                  "favorite_count": 9973,
+                                  "favorite_count": 9968,
                                   "favorited": false,
                                   "full_text": "We gave @jynxzi the Mona Lisa cookie in Shrimp Game earlier \ud83d\ude02 https://t.co/M9PaKukUky",
                                   "is_quote_status": false,
@@ -9397,7 +9386,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -9405,7 +9394,7 @@
                 },
                 {
                   "entryId": "tweet-1871650408734597512",
-                  "sortIndex": "1930620549021564913",
+                  "sortIndex": "1934644393893953521",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -9452,16 +9441,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -9501,12 +9490,12 @@
                           },
                           "is_translatable": false,
                           "views": {
-                            "count": "2167944",
+                            "count": "2169745",
                             "state": "EnabledWithCount"
                           },
                           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
                           "legacy": {
-                            "bookmark_count": 145,
+                            "bookmark_count": 144,
                             "bookmarked": false,
                             "created_at": "Tue Dec 24 20:13:25 +0000 2024",
                             "conversation_id_str": "1871650408734597512",
@@ -9521,14 +9510,14 @@
                               "urls": [],
                               "user_mentions": []
                             },
-                            "favorite_count": 77781,
+                            "favorite_count": 77663,
                             "favorited": false,
                             "full_text": "like for a free xbox \ud83c\udf85",
                             "is_quote_status": false,
                             "lang": "en",
                             "quote_count": 27,
-                            "reply_count": 906,
-                            "retweet_count": 365,
+                            "reply_count": 904,
+                            "retweet_count": 364,
                             "retweeted": false,
                             "user_id_str": "1165011598672650240",
                             "id_str": "1871650408734597512"
@@ -9546,7 +9535,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -9554,7 +9543,7 @@
                 },
                 {
                   "entryId": "tweet-1868778424728490447",
-                  "sortIndex": "1930620549021564912",
+                  "sortIndex": "1934644393893953520",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -9601,16 +9590,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -9786,25 +9775,23 @@
                                           }
                                         },
                                         "fast_followers_count": 0,
-                                        "favourites_count": 3781,
-                                        "followers_count": 63009,
-                                        "friends_count": 5293,
+                                        "favourites_count": 3795,
+                                        "followers_count": 63185,
+                                        "friends_count": 5310,
                                         "has_custom_timelines": false,
                                         "is_translator": false,
-                                        "listed_count": 121,
+                                        "listed_count": 120,
                                         "location": "Kyiv, Ukraine",
-                                        "media_count": 13201,
+                                        "media_count": 13350,
                                         "name": "Streams Charts \ud83c\uddfa\ud83c\udde6",
-                                        "normal_followers_count": 63009,
-                                        "pinned_tweet_ids_str": [
-                                          "1929485830428451296"
-                                        ],
+                                        "normal_followers_count": 63185,
+                                        "pinned_tweet_ids_str": [],
                                         "possibly_sensitive": false,
                                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315978655215038470/1743686277",
                                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1681231008744501248/Q10oMLf3_normal.jpg",
                                         "profile_interstitial_type": "",
                                         "screen_name": "StreamsCharts",
-                                        "statuses_count": 15891,
+                                        "statuses_count": 16076,
                                         "translator_type": "none",
                                         "url": "https://t.co/SkXAiLVEqw",
                                         "verified": false,
@@ -9826,12 +9813,12 @@
                                 },
                                 "is_translatable": false,
                                 "views": {
-                                  "count": "1936332",
+                                  "count": "1937573",
                                   "state": "EnabledWithCount"
                                 },
                                 "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
                                 "legacy": {
-                                  "bookmark_count": 99,
+                                  "bookmark_count": 100,
                                   "bookmarked": false,
                                   "created_at": "Mon Dec 16 21:30:00 +0000 2024",
                                   "conversation_id_str": "1868770579370983510",
@@ -10401,7 +10388,7 @@
                                   "possibly_sensitive": false,
                                   "possibly_sensitive_editable": true,
                                   "quote_count": 130,
-                                  "reply_count": 127,
+                                  "reply_count": 126,
                                   "retweet_count": 31,
                                   "retweeted": false,
                                   "user_id_str": "1315978655215038470",
@@ -10423,7 +10410,7 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
@@ -10431,7 +10418,7 @@
                 },
                 {
                   "entryId": "tweet-1868744048472912335",
-                  "sortIndex": "1930620549021564911",
+                  "sortIndex": "1934644393893953519",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -10478,16 +10465,16 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 4636,
-                                  "followers_count": 609674,
-                                  "friends_count": 1204,
+                                  "favourites_count": 4612,
+                                  "followers_count": 611131,
+                                  "friends_count": 1203,
                                   "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 93,
+                                  "listed_count": 94,
                                   "location": "United States",
                                   "media_count": 422,
                                   "name": "Jynxzi",
-                                  "normal_followers_count": 609674,
+                                  "normal_followers_count": 611131,
                                   "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
                                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165011598672650240/1709746661",
@@ -10527,7 +10514,7 @@
                           },
                           "is_translatable": false,
                           "views": {
-                            "count": "1887",
+                            "count": "484744",
                             "state": "EnabledWithCount"
                           },
                           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -10547,7 +10534,7 @@
                               "urls": [],
                               "user_mentions": []
                             },
-                            "favorite_count": 8066,
+                            "favorite_count": 8058,
                             "favorited": false,
                             "full_text": "Today I'm going to start multi streaming on YouTube &amp; Twitch simultaneously\n\nIt's something I always wanted to do for a while but I was exclusive with Twitch for a long time\n\nI've heard from loads of other creators to give it a try so let's see how it goes",
                             "is_quote_status": false,
@@ -10572,29 +10559,29 @@
                       "details": {
                         "timelinesDetails": {
                           "injectionType": "RankedOrganicTweet",
-                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAq0hz6AAAAAA="
+                          "controllerData": "DAACDAABDAABCgABAAAAAAAAAAAKAAkAAAAAL0iFqQAAAAA="
                         }
                       }
                     }
                   }
                 },
                 {
-                  "entryId": "cursor-top-1930620549021564929",
-                  "sortIndex": "1930620549021564929",
+                  "entryId": "cursor-top-1934644393893953537",
+                  "sortIndex": "1934644393893953537",
                   "content": {
                     "entryType": "TimelineTimelineCursor",
                     "__typename": "TimelineTimelineCursor",
-                    "value": "DAAHCgABGsrxKRSAJxELAAIAAAATMTkzMDMwMjM2MTkxNTc1Njk0NAgAAwAAAAEAAA",
+                    "value": "DAAHCgABGtk803jAJxELAAIAAAATMTkzMDMwMjM2MTkxNTc1Njk0NAgAAwAAAAEAAA",
                     "cursorType": "Top"
                   }
                 },
                 {
-                  "entryId": "cursor-bottom-1930620549021564910",
-                  "sortIndex": "1930620549021564910",
+                  "entryId": "cursor-bottom-1934644393893953518",
+                  "sortIndex": "1934644393893953518",
                   "content": {
                     "entryType": "TimelineTimelineCursor",
                     "__typename": "TimelineTimelineCursor",
-                    "value": "DAAHCgABGsrxKRR__-4LAAIAAAATMTg2ODc0NDA0ODQ3MjkxMjMzNQgAAwAAAAIAAA",
+                    "value": "DAAHCgABGtk803i__-4LAAIAAAATMTg2ODc0NDA0ODQ3MjkxMjMzNQgAAwAAAAIAAA",
                     "cursorType": "Bottom"
                   }
                 }

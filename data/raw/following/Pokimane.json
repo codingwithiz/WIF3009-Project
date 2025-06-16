@@ -1,7 +1,7 @@
 {
   "cursor": {
-    "bottom": "0|1930568189456941053",
-    "top": "-1|1930568189456941057"
+    "bottom": "0|1934644209839505405",
+    "top": "-1|1934644209839505409"
   },
   "result": {
     "timeline": {
@@ -22,7 +22,7 @@
           "entries": [
             {
               "entryId": "user-869948664843821056",
-              "sortIndex": "1930568189456941056",
+              "sortIndex": "1934644209839505408",
               "content": {
                 "entryType": "TimelineTimelineItem",
                 "__typename": "TimelineTimelineItem",
@@ -51,8 +51,8 @@
                           }
                         },
                         "fast_followers_count": 0,
-                        "favourites_count": 5802,
-                        "followers_count": 23387,
+                        "favourites_count": 5799,
+                        "followers_count": 23372,
                         "friends_count": 58,
                         "has_custom_timelines": false,
                         "is_translator": false,
@@ -60,7 +60,7 @@
                         "location": "",
                         "media_count": 113,
                         "name": "\ud835\ude4b\ud835\ude68\ud835\ude6e\ud835\ude58\ud835\ude5d\ud835\ude64",
-                        "normal_followers_count": 23387,
+                        "normal_followers_count": 23372,
                         "pinned_tweet_ids_str": [
                           "1876169381455270237"
                         ],
@@ -87,22 +87,22 @@
               }
             },
             {
-              "entryId": "cursor-bottom-1930568189456941055",
-              "sortIndex": "1930568189456941055",
+              "entryId": "cursor-bottom-1934644209839505407",
+              "sortIndex": "1934644209839505407",
               "content": {
                 "entryType": "TimelineTimelineCursor",
                 "__typename": "TimelineTimelineCursor",
-                "value": "0|1930568189456941053",
+                "value": "0|1934644209839505405",
                 "cursorType": "Bottom"
               }
             },
             {
-              "entryId": "cursor-top-1930568189456941057",
-              "sortIndex": "1930568189456941057",
+              "entryId": "cursor-top-1934644209839505409",
+              "sortIndex": "1934644209839505409",
               "content": {
                 "entryType": "TimelineTimelineCursor",
                 "__typename": "TimelineTimelineCursor",
-                "value": "-1|1930568189456941057",
+                "value": "-1|1934644209839505409",
                 "cursorType": "Top"
               }
             }
